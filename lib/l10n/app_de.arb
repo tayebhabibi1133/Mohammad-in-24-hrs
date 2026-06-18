@@ -1,0 +1,338 @@
+{
+    "@@locale": "de",
+  "englishLang": "🇺🇸 Englisch",
+  "persianLang": "🇦🇫 Persisch",
+  "pashtoLang": "🇦🇫 Paschtu",
+  "arabicLang": "🇸🇦 Arabisch",
+  "spanishLang": "🇪🇸 Spanisch",
+  "germanLang": "🇩🇪 Deutsch",
+  "russianLang": "🇷🇺 Russisch",
+  "chineseLang": "🇨🇳 Chinesisch",
+
+  "selectLang": "Wähle deine Sprache",
+  "next": "Weiter!",
+    "azkarPageTitle": "Azkar",
+  "complete": "Abgeschlossen!",
+  "click": "Klicken!",
+  "yasinDisc": "Das Lesen dieser Sure, insbesondere am Morgen, kann dazu beitragen, den kommenden Tag deutlich zu verbessern",
+  "istighfarDisc": "Allah liebt die Reue, daher sollten Sie nicht verzweifeln, sondern Ihr Bestes tun, um Vergebung zu erlangen",
+  "waqiahDisc": "Das Lesen der Sure Al-Waqiah in der Nacht dient dem Schutz vor Armut und stellt zugleich eine besondere Erinnerung an den Tag des Jüngsten Gerichts dar",
+  "surahMulkDisc": "Das Lesen dieser Sure, insbesondere der ersten 30 Verse in der Nacht, kann als Fürsprache zur Erlangung von Vergebung dienen",
+  "qailolaDisc": "Dies ist ein Mittagsschlaf, der zwischen 15 Minuten und einer Stunde dauern kann, um zusätzliche Energie für den Tag oder für das Nachtgebet zu gewinnen",
+  "ishraqPrayerDiscreption": "Das Ishraq-Gebet ist eine besondere Form des Gebets, die nach dem vollständigen Sonnenaufgang verrichtet wird und an Allah erinnert",
+  "clearHistory": "Tracker-Verlauf löschen",
+
+  "permissionAlertContent": "Damit deine Sunnah-Erinnerungen genau zur richtigen Zeit ankommen, erlaube bitte im nächsten Schritt „Alarme & Erinnerungen“.",
+  "enable": "JETZT AKTIVIEREN!",
+
+  "howCanI": "Jeder Mensch mit klarem Verstand möchte nach dem Lesen über ihn (ﷺ) so sein wie er.\nAber die Frage ist: Wie kannst du wie er sein?\nWir helfen dir 😊!\nJa! Wir helfen dir, einen Charakter wie seinen zu entwickeln: respektvoll, freundlich, führungsstark, diszipliniert und am Ende ein wahrer\nMENSCH!",
+
+  "didYouKnow": "Wusstest du?",
+
+  "expectations": "Alles, was du tun musst, ist unsere Bibliothek zu durchsuchen, die Sunnah auszuwählen, die dir gefällt, und wir senden dir Benachrichtigungen.\nWir erinnern dich auch an Dinge, die dir helfen, diesen großartigen Charakter zu entwickeln.\nAber! Bist du bereit, dein BESTES für dieses Leben und das Jenseits aufzubauen?",
+
+  "ready": "Ich bin bereit! 😮‍💨",
+
+  "aboutMohammad": "Wusstest du, dass Muhammad (ﷺ) für einen so wunderschönen Charakter bekannt war, dass sogar seine Feinde ihm vertrauten? Er war stets ehrlich, freundlich und tief mitfühlend.\nEr kümmerte sich um die Armen, vergab denen, die ihm schadeten – selbst wenn er die Macht hatte, sie zu bestrafen – und lebte in Bescheidenheit trotz seiner großen Führungsrolle.\nEr veränderte die Gesellschaft mit Gerechtigkeit und Barmherzigkeit, lehrte Ehrlichkeit, Geduld und Respekt.\nSo zu werden wie er ist nichts Kleines – es ist eine Errungenschaft für sich, ein Weg, der deinen Charakter und deinen Wert jeden Tag erhöht.",
+
+  "selectLangContent": "Hey du!\nSprachen und Namen sind die ersten Verbindungen zwischen uns.\nWähle zuerst die Sprache, in der du dich am wohlsten fühlst, und sag mir dann, wie ich dich nennen darf.",
+
+  "enterName": "Gib deinen Namen ein........",
+
+  "changeTheme": "Dunkelmodus",
+  "changeLang": "Sprache ändern",
+  "credits": "Mitwirkende",
+
+  "morningGreetings": "Guten Morgen",
+  "eveningGreetings": "Guten Abend",
+  "mainGreeting": "As-salamu alaikum",
+  "mainSubTitle": "Dem authentischen Sunnah folgen – der Weg ins Paradies",
+  "noonGreeting": "Guten Mittag",
+  "nightGreetings": "Gute Nacht",
+  "midNightGreetings": "Gute Mitternacht",
+
+  "alertBoxTitle": "Erfolgreich gespeichert",
+  "alertBoxContent": "Diese Sunnah ist jetzt im Bereich „Ausgewählt“ verfügbar. Du kannst dort eine Erinnerung einstellen.",
+  "alertBoxActionGoToSelected": "Zu „Ausgewählt“ gehen",
+  "alertBoxActionDone": "Fertig",
+
+  "savedReminderMessege": "Erinnerung aktiviert!",
+  "saveReminderButtonText": "Speichern und Erinnerung aktivieren",
+
+  "deletingReminder": "Sunnah wird gelöscht",
+  "deletingReminderSnackbar": "Erfolgreich gelöscht!",
+  "deletingReminderContent": "Möchtest du diese Sunnah aus „Ausgewählt“ entfernen? Du wirst keine Erinnerungen mehr erhalten, wenn du sie löschst!",
+  "deletingReminderCancel": "Abbrechen",
+  "deletingReminderDelete": "Löschen!",
+
+  "navBarMain": "Start",
+  "navBarLibrary": "Bibliothek",
+  "navBarSelected": "Ausgewählt",
+  "navBarMore": "Mehr",
+
+  "recommondedSunnahs": "Empfohlene Sunnahs für jetzt:",
+
+  "morningZikr": "Morgen-Azkar",
+  "miswak": "Miswak",
+  "ishraqPrayer": "Ischraq-Gebet",
+  "qailola": "Mittagsruhe\n(Qailula)",
+  "dhuhaPrayer": "Duha-Gebet",
+  "quran": "Qur’an lesen",
+
+  "eveningZikr": "Abend-Azkar",
+  "surahMulk": "Sure al-Mulk",
+  "surahSajda": "Sure as-Sajda",
+  "surahWaqiah": "Sure al-Waqi'ah",
+
+  "beforeNightZikr": "Zikr vor dem Schlafen",
+  "qyamUlLail": "Nachtgebet\n(Qiyam al-Lail)",
+  "surahYasin": "Sure Yasin",
+  "astaghfar": "Istighfar",
+
+  "selectedSunnahTitle": "Ausgewählte Sunnahs",
+  "nullScreenAlert": "Noch keine Sunnahs ausgewählt.",
+
+  "libraryAppBarTitle": "Sunnah-Bibliothek",
+
+  "morning": "Morgen",
+  "timeBased": "Zeitbasiert",
+  "worshipSunnahs": "Ibadah",
+  "socialSunnahs": "Soziales",
+  "spritualSunnahs": "Charakter",
+
+  "addBookmark": "Zu „Ausgewählt“ hinzufügen",
+  "libraryWipingFace": "Gesicht abwischen",
+"libraryAlhamdulillahAfterWaking": "Alhamdulillah nach dem Aufwachen sagen",
+"libraryUsingMiswak": "Miswak benutzen",
+"libraryCleaningNoseThreeTimes": "Nase dreimal reinigen",
+"libraryWashingHandsBeforeWater": "Hände waschen, bevor sie ins Wasser getaucht werden",
+
+"librarySunnahFajr": "Sunnah von Fajr",
+"librarySittingAfterFajrUntilSunrise": "Nach Fajr bis zum Sonnenaufgang sitzen",
+"libraryMorningAdhkar": "Morgen-Azkar",
+"libraryDuhaPrayer": "Duha-Gebet",
+
+"libraryRawatibPrayers": "Rawatib-Gebete (vor/nach Pflichtgebeten)",
+"librarySunnahBeforeAsr": "Sunnah vor Asr",
+"librarySunnahBeforeMaghrib": "Sunnah vor Maghrib",
+"librarySunnahBeforeIsha": "Sunnah vor Isha",
+
+"libraryEveningAdhkar": "Abend-Azkar",
+"librarySittingAfterMaghrib": "Nach Maghrib sitzen",
+
+"libraryQiyamAlLayl": "Qiyam al-Layl (Nachtgebet)",
+"libraryWitr": "Witr-Gebet",
+"libraryNightDuas": "Nacht-Duas",
+"librarySleepingOnRightSide": "Auf der rechten Seite schlafen",
+"libraryDuasBeforeSleep": "Duas vor dem Schlafen",
+"librarySayingBismillahInWudu": "Bismillah im Wudu sagen",
+"libraryWashingLimbsThreeTimes": "Gliedmaßen dreimal waschen",
+"libraryKhilalBetweenFingersToes": "Khilal (zwischen Fingern/Zehn)",
+"libraryMiswakDuringWudu": "Miswak während des Wudu benutzen",
+"libraryTwoRakahAfterWudu": "Zwei Rak‘ah nach dem Wudu",
+
+"libraryRaisingHands": "Hände heben",
+"libraryDuaAlIstiftah": "Du‘a al-Istiftah",
+"libraryExtraTasbeehInRukuSujood": "Zusätzlicher Tasbeeh im Ruku/Sujood",
+"libraryDuaBetweenTwoSujood": "Du‘a zwischen zwei Sujood",
+"libraryLongerSujood": "Längeres Sujood",
+
+"librarySeekingRefugeBeforeRecitation": "Zuflucht vor der Rezitation suchen",
+"librarySayingAmeen": "Ameen sagen",
+"libraryFullDhikrAfterRuku": "Vollständiger Dhikr nach dem Ruku",
+
+"libraryEnterWithRightFoot": "Mit dem rechten Fuß eintreten",
+"libraryDuaEnteringMosque": "Du‘a beim Betreten der Moschee",
+"libraryTahiyyatAlMasjid": "Tahiyyat al-Masjid",
+"libraryWalkingCalmly": "Ruhig gehen",
+"libraryUsingSutrah": "Sutrah benutzen",
+
+"libraryRepeatingAfterMuadhin": "Nach dem Mu’adhin wiederholen",
+"librarySendingSalawat": "Salawat senden",
+"libraryDuaAfterAdhan": "Du‘a nach dem Adhan",
+"libraryMakingPersonalDua": "Persönliche Du‘a machen",
+
+"librarySayingBismillah": "Bismillah sagen",
+"librarySalamUponEntering": "Salam beim Eintreten",
+"libraryDuaLeavingHome": "Du‘a beim Verlassen des Hauses",
+"libraryMiswakWhenEntering": "Miswak beim Eintreten benutzen",
+"libraryWearingRightSideFirst": "Zuerst die rechte Seite anziehen",
+"libraryDuaWhenWearingClothes": "Du‘a beim Anziehen von Kleidung",
+"libraryRemovingLeftSideFirst": "Zuerst die linke Seite ausziehen",
+
+"libraryBismillahBeforeEating": "Bismillah vor dem Essen sagen",
+"libraryEatingWithRightHand": "Mit der rechten Hand essen",
+"libraryEatingWhatIsNear": "Das essen, was vor einem liegt",
+"libraryDrinkingInThreeBreaths": "In drei Zügen trinken",
+
+"librarySmiling": "Lächeln",
+"librarySalam": "Salam",
+"libraryGoodIntention": "Gute Absicht",
+"libraryRenewingIntentionInDailyActs": "Absicht in täglichen Handlungen erneuern",
+"libraryTurningHabitsIntoWorship": "Gewohnheiten in عبادات verwandeln",
+"libraryRememberingAllahConstantly": "Allah ständig gedenken",
+"libraryGratitude": "Dankbarkeit",
+"libraryReflectionOnBlessings": "Über die Segnungen nachdenken",
+
+"libraryLeavingSinsToHelpQiyam": "Sünden vermeiden, um Qiyam zu erleichtern",
+"libraryFightingNafs": "Gegen das Nafs kämpfen",
+"libraryAvoidingInnovation": "Neuerungen vermeiden",
+"libraryTafakkurOnCreation": "Über die Schöpfung nachdenken",
+"libraryMonthlyQuranCompletion": "Monatliche Qur’an-Vollendung",
+
+"sayingBismillahGeneralTitle": "Bismillah sagen",
+"salamUponEnteringTitle": "Salam beim Eintreten",
+"duaLeavingHomeTitle": "Du‘a beim Verlassen des Hauses",
+"miswakWhenEnteringHomeTitle": "Miswak beim Betreten des Hauses",
+"wearingRightSideFirstTitle": "Zuerst die rechte Seite anziehen",
+"duaWhenWearingClothesTitle": "Du‘a beim Anziehen von Kleidung",
+"removingLeftSideFirstTitle": "Zuerst die linke Seite ausziehen",
+"bismillahBeforeEatingTitle": "Bismillah vor dem Essen",
+"eatingWithRightHandTitle": "Mit der rechten Hand essen",
+"eatingWhatIsNearTitle": "Das essen, was vor einem liegt",
+"drinkingInThreeBreathsTitle": "In drei Zügen trinken",
+"smilingTitle": "Lächeln",
+"givingSalamTitle": "Salam geben",
+"goodIntentionTitle": "Gute Absicht",
+"renewingIntentionTitle": "Absicht erneuern",
+"turningHabitsIntoWorshipTitle": "Gewohnheiten in عبادات verwandeln",
+"rememberingAllahConstantlyTitle": "Allah ständig gedenken",
+"gratitudeTitle": "Dankbarkeit",
+"reflectionOnBlessingsTitle": "Über die Segnungen nachdenken",
+"leavingSinsForQiyamTitle": "Sünden vermeiden für Qiyam",
+"fightingNafsTitle": "Das Nafs bekämpfen",
+"avoidingInnovationTitle": "Neuerungen vermeiden",
+"tafakkurOnCreationTitle": "Über die Schöpfung nachdenken",
+"monthlyQuranCompletionTitle": "Monatliche Qur’an-Vollendung",
+"wipingFaceAfterWaking": "Das sanfte Abwischen des Gesichts nach dem Aufwachen gehört zu den feinen und schönen Sunnahs des Propheten ﷺ. Es entfernt die آثار des Schlafs und hilft dir, deinen Tag mit Bewusstsein und dem Gedenken an Allah zu beginnen.\n(Muslim 763)",
+
+"sayingAlhamdulillahAfterWaking": "Beginne deinen Tag mit Dankbarkeit, indem du sagst: „Alhamdulillah alladhi ahyana ba‘da ma amatana…“ – Lobpreisung für Allah, der dir nach dem Schlaf wieder Leben gegeben hat. Dieser Dhikr verbindet dein Herz von Anfang an mit seinem wahren Zweck.\n(Bukhari 6312)",
+
+"usingMiswakAfterWaking": "Das Benutzen des Miswak nach dem Aufwachen – besonders nachts – war dem Propheten ﷺ lieb. Es reinigt den Mund und bereitet dich auf Gebet und Dhikr vor, indem es körperliche Sauberkeit mit spiritueller Bereitschaft verbindet.\n(Bukhari 245, Muslim 255)",
+
+"cleaningNoseThreeTimes": "Das dreimalige Reinigen der Nase nach dem Aufwachen ist eine Sunnah, die Sauberkeit fördert und den Körper erfrischt. Der Prophet ﷺ lehrte dies als Teil der Wiederherstellung der Reinheit nach dem Schlaf.\n(Bukhari 3295, Muslim 238)",
+
+"washingHandsBeforeWater": "Bevor du nach dem Aufwachen deine Hände ins Wasser tauchst, wasche sie dreimal. Diese Sunnah schützt dich vor unsichtbaren Unreinheiten und stärkt die Achtsamkeit im Alltag.\n(Bukhari 162, Muslim 278)",
+
+"sunnahOfFajr": "Die zwei leichten Rak‘ah vor Fajr sind wertvoller als die ganze Welt und alles, was in ihr ist. Bewahre sie, und du bewahrst einen der größten Schätze deines Tages.\n(Muslim 725)",
+
+"sittingAfterFajr": "Nach Fajr sitzen zu bleiben und Allah bis zum Sonnenaufgang zu gedenken bringt Ruhe, Barakah und großen Lohn. Es setzt einen starken spirituellen Ton für deinen ganzen Tag.\n(Muslim 670)",
+
+"morningAdhkar": "Wer die Morgen-Adhkar bewahrt, wird von göttlichem Schutz umgeben. Diese Dhikr stärken das Herz, bringen Frieden und schützen dich den ganzen Tag über.\n(Muslim 2723)",
+
+"duhaPrayer": "Das Duha-Gebet ist wie eine Spende für jedes Gelenk deines Körpers. Es ist ein schöner Ausdruck von Dankbarkeit für Gesundheit, Bewegung und Leben.\n(Muslim 720)",
+
+"rawatibDaily": "Wer regelmäßig 12 Rak‘ah Sunnah täglich betet, dem wird ein Haus im Paradies gebaut. Diese kleinen täglichen Taten tragen gewaltigen ewigen Lohn.\n(Muslim 728)",
+
+"sunnahBeforeAsr": "Der Prophet ﷺ bat um Barmherzigkeit für diejenigen, die vier Rak‘ah vor ‘Asr beten. Wenige zusätzliche Momente können dir Allahs Barmherzigkeit bringen.\n(Abu Dawud 1271, Tirmidhi 430 – Hasan)",
+
+"sunnahBeforeMaghrib": "Der Prophet ﷺ ermutigte dazu, vor Maghrib zu beten für denjenigen, der möchte. Es ist eine einfache Gelegenheit für zusätzlichen Lohn vor dem Pflichtgebet.\n(Bukhari 1183)",
+
+"sunnahBeforeIsha": "Zwischen Adhan und Iqamah gibt es eine Gelegenheit zum Gebet. Nutze diese gesegneten Momente, um Allah vor ‘Isha näherzukommen.\n(Bukhari 624, Muslim 838)",
+
+"eveningAdhkar": "Die Abend-Adhkar sind ein Schutzschild für deine Nacht. Sie schützen dich, beruhigen dein Herz und bereiten dich darauf vor, unter Allahs Fürsorge zu ruhen.\n(Muslim 2723)",
+
+"sittingAfterMaghrib": "Nach dem Gebet sitzen zu bleiben und Dhikr zu machen bringt anhaltenden Lohn und stärkt deine Verbindung zu Allah.\n(Muslim 670)",
+
+"qiyamAlLayl": "Das beste Gebet nach den Pflichtgebeten ist das Nachtgebet. In der Stille der Nacht wird deine Verbindung zu Allah tiefer und aufrichtiger.\n(Muslim 1163)",
+
+"witrPrayer": "Witr ist eine stark betonte Sunnah. Vernachlässige es nicht, denn es vollendet deine Nacht und besiegelt deinen Tag mit عبادات und Dhikr.\n(Abu Dawud 1416, Tirmidhi 453)",
+
+"nightDuas": "Wer nachts aufwacht und Allah mit den vorgeschriebenen Bittgebeten gedenkt, dessen Du‘a wird angenommen. Diese Momente sind seltene Gelegenheiten für Nähe.\n(Bukhari 1154)",
+
+"sleepingRightSide": "Auf der rechten Seite zu schlafen folgt der Sunnah des Propheten ﷺ und bringt sowohl körperlichen Komfort als auch spirituellen Nutzen.\n(Bukhari 6311, Muslim 2710)",
+
+"duasBeforeSleep": "Den Tag mit Bittgebeten zu beenden bedeutet, dein Vertrauen in Allah zu legen. Deine Seele ruht unter Seinem Schutz, und das erneute Erwachen ist eine Barmherzigkeit von Ihm.\n(Bukhari 6320, Muslim 2714)",
+
+"bismillahWudu": "Beginne deine Waschung mit „Bismillah“, um deine Handlung mit Segen und Absicht zu füllen und eine alltägliche Handlung in عبادات zu verwandeln.\n(Abu Dawud 101; Tirmidhi 25)",
+
+"washingLimbsThreeTimes": "Jedes Glied bis zu dreimal im Wudu zu waschen folgt der vollständigen Praxis des Propheten ﷺ und gewährleistet sowohl Sauberkeit als auch Lohn.\n(Bukhari 159; Muslim 226)",
+
+"khilalFingersToes": "Das Durchgehen mit Wasser zwischen Fingern und Zehen vervollständigt deine Waschung und zeigt Achtsamkeit im Gottesdienst.\n(Abu Dawud 142; Tirmidhi 38)",
+
+"miswakDuringWudu": "Die Verwendung des Miswak während des Wudu verbindet die Reinigung des Körpers und des Mundes und bereitet dich vollständig auf das Gebet vor.\n(Ahmad 7406; Nasa’i 5)",
+
+"twoRakahAfterWudu": "Zwei Rak‘ah nach dem Wudu zu beten ist eine besondere Tat, die großen Lohn bringt und die Tore des Paradieses öffnet.\n(Bukhari 1149; Muslim 245)",
+
+"raisingHandsInPrayer": "Das Heben der Hände an bestimmten Stellen im Gebet folgt der genauen Sunnah und erhöht Demut und Aufmerksamkeit.\n(Bukhari 735)",
+
+"duaIstiftah": "Das Rezitieren der Anfangsbittgebet nach dem ersten Takbir bereitet dein Herz darauf vor, mit Fokus und Aufrichtigkeit vor Allah zu stehen.\n(Muslim 399)",
+
+"extraTasbeehRukuSujood": "Das mehrfache Wiederholen des Tasbeeh im Ruku und Sujood vertieft deine Demut und stärkt deine Verbindung zu Allah.\n(Muslim 772)",
+
+"duaBetweenTwoSujood": "Das Sagen von „Rabbi ighfir li“ zwischen den beiden Niederwerfungen ist ein Moment, um mit Aufrichtigkeit und Demut um Vergebung zu bitten.\n(Abu Dawud 850)",
+"longerSujood": "Das Verlängern der Niederwerfung bringt dich Allah am nächsten und macht diese Zeit besonders kraftvoll für Du‘a und Nachdenken.\n(Muslim 479)",
+
+"seekingRefugeBeforeRecitation": "Das Sagen von „A‘udhu billahi min ash-shaytan ir-rajim“ schützt deine Rezitation und deine Konzentration vor Ablenkungen.\n(Abu Dawud 775)",
+
+"sayingAmeen": "Das Sagen von „Ameen“ nach Al-Fatihah bringt deine Bittgebete in Einklang mit den Engeln und führt zur Annahme deines Gebets.\n(Bukhari 782; Muslim 410)",
+
+"fullDhikrAfterRuku": "Das vollständige Lob nach dem Aufrichten aus dem Ruku erfüllt dein Gebet mit Dankbarkeit und richtigem Gedenken.\n(Muslim 477)",
+
+"enterWithRightFoot": "Das Betreten der Moschee mit dem rechten Fuß zeigt Respekt und die Befolgung der Sunnah an heiligen Orten.\n(Hakim 1/218)",
+
+"duaEnteringMosque": "Das Sagen der vorgeschriebenen Du‘a beim Betreten der Moschee öffnet die Tore der Barmherzigkeit und bereitet dein Herz auf den Gottesdienst vor.\n(Muslim 713)",
+
+"tahiyyatAlMasjid": "Zwei Rak‘ah zu beten, bevor man sich in der Moschee setzt, ehrt das Haus Allahs und bringt unmittelbaren Lohn.\n(Bukhari 444; Muslim 714)",
+
+"walkingCalmlyToPrayer": "Ruhig und würdevoll zum Gebet zu gehen zeigt Respekt gegenüber dem Gottesdienst und erhöht deinen Lohn.\n(Bukhari 908; Muslim 602)",
+
+"usingSutrah": "Das Aufstellen einer Sutrah beim Gebet schützt deine Konzentration und folgt der Praxis des Propheten ﷺ.\n(Abu Dawud 689)",
+
+"repeatingAfterMuadhin": "Das Wiederholen der Worte des Adhan verbindet dich mit dem Gebetsruf und bringt großen Lohn.\n(Bukhari 611; Muslim 383)",
+
+"sendingSalawatAfterAdhan": "Das Senden von Segenswünschen auf den Propheten ﷺ nach dem Adhan erhöht deinen Rang und bringt dich ihm am Tag des Gerichts näher.\n(Muslim 384)",
+
+"duaAfterAdhan": "Das Sagen der vorgeschriebenen Du‘a nach dem Adhan ist ein Mittel zur Annahme deiner Bittgebete.\n(Bukhari 614)",
+
+"makingPersonalDuaAfterAdhan": "Nach dem Adhan ist eine besondere Zeit, in der Du‘as angenommen werden – nutze sie, um Allah um das zu bitten, was dein Herz braucht.\n(Abu Dawud 524)",
+
+"sayingBismillahGeneral": "Das Sagen von „Bismillah“ vor Handlungen erfüllt sie mit Segen und verwandelt alltägliche Dinge in عبادات.\n(Bukhari 5376)",
+
+"salamUponEntering": "Das Geben von Salam beim Betreten eines Hauses verbreitet Frieden, bringt Segen und stärkt Beziehungen.\n(Tirmidhi 2698)",
+
+"duaLeavingHome": "Das Sagen der vorgeschriebenen Du‘a beim Verlassen des Hauses legt dein Vertrauen in Allah und bringt Schutz auf deinem Weg.\n(Abu Dawud 5095; Tirmidhi 3426)",
+
+"miswakWhenEnteringHome": "Die Verwendung des Miswak beim Betreten des Hauses folgt der Sunnah und sorgt für Sauberkeit und Frische.\n(Muslim 253)",
+
+"wearingRightSideFirst": "Mit der rechten Seite beim Anziehen zu beginnen zeigt die Liebe zur Sunnah selbst in den kleinsten Handlungen.\n(Bukhari 168)",
+
+"duaWhenWearingClothes": "Das Sagen der vorgeschriebenen Du‘a nach dem Anziehen neuer Kleidung erinnert dich daran, dass alle Gaben von Allah kommen.\n(Abu Dawud 4020; Tirmidhi 1767)",
+
+"removingLeftSideFirst": "Beim Ausziehen mit der linken Seite zu beginnen folgt der ausgewogenen Anleitung des Propheten ﷺ.\n(Abu Dawud 4141)",
+
+"bismillahBeforeEating": "Das Sagen von „Bismillah“ vor dem Essen bringt Segen in deine Nahrung und schützt sie vor Shaytan.\n(Bukhari 5376; Muslim 2022)",
+
+"eatingWithRightHand": "Mit der rechten Hand zu essen gehört zu den guten Manieren im Islam und zeigt Gehorsam im Alltag.\n(Muslim 2020)",
+
+"eatingWhatIsNear": "Von dem zu essen, was direkt vor dir liegt, lehrt Disziplin, Respekt und gute Manieren.\n(Bukhari 5376)",
+
+"drinkingInThreeBreaths": "In drei Zügen zu trinken ist gesünder und folgt der Sunnah des Propheten ﷺ.\n(Muslim 2028)",
+
+"smiling": "Ein aufrichtiges Lächeln ist eine Spende. Es verbreitet Freude, erweicht Herzen und bringt Lohn von Allah.\n(Tirmidhi 1956)",
+
+"givingSalam": "Das Verbreiten des Salam stärkt die Liebe zwischen den Menschen und ist ein Schlüssel zum Eintritt ins Paradies.\n(Muslim 54)",
+
+"goodIntention": "Taten werden nach den Absichten beurteilt. Mit Aufrichtigkeit werden selbst gewöhnliche Handlungen zu عبادات.\n(Bukhari 1; Muslim 1907)",
+
+"renewingIntention": "Erneuere regelmäßig deine Absicht, damit deine täglichen Handlungen mit Allah verbunden bleiben und voller Lohn sind.\n(Bukhari 1; Muslim 1907)",
+
+"turningHabitsIntoWorship": "Durch aufrichtige Absicht können selbst Gewohnheiten wie Essen, Schlafen und Arbeiten zu عبادات werden.\n(Bukhari 1)",
+
+"rememberingAllahConstantly": "Halte deine Zunge feucht mit dem Gedenken an Allah – es bringt Frieden in dein Herz und Licht in dein Leben.\n(Tirmidhi 3375)",
+
+"gratitude": "Dankbarkeit gegenüber Allah vermehrt die Segnungen und bringt Zufriedenheit ins Herz.\n(Bukhari 1130)",
+
+"reflectionOnBlessings": "Das Nachdenken über Allahs Segnungen vertieft deine Dankbarkeit und stärkt deinen Glauben.\n(Qur’an 14:7)",
+
+"leavingSinsForQiyam": "Das Meiden von Sünden stärkt dein Herz und erleichtert dir das Nachtgebet.\n(Ibn Majah 4245)",
+
+"fightingNafs": "Der Kampf gegen dein Nafs im Gehorsam gegenüber Allah gehört zu den größten Formen des Jihad.\n(Tirmidhi 1621)",
+
+"avoidingInnovation": "Das Festhalten an der Sunnah und das Vermeiden von Neuerungen bewahrt die Reinheit deiner Religion.\n(Muslim 867)",
+
+"tafakkurOnCreation": "Das Nachdenken über die Schöpfung der Himmel und der Erde stärkt den Glauben und bringt Ehrfurcht vor Allah.\n(Qur’an 3:191)",
+
+"monthlyQuranCompletion": "Das regelmäßige Vollenden des Qur’an hält dein Herz lebendig und verbunden mit den Worten Allahs.\n(Abu Dawud 1394; Tirmidhi 2949)"
+
+}

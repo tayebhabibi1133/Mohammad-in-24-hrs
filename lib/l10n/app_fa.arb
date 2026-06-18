@@ -1,0 +1,343 @@
+{
+  "@@locale": "fa",
+  "englishLang": "🇺🇸 انگلیسی",
+  "persianLang": "🇦🇫 فارسی",
+  "pashtoLang": "🇦🇫 پشتو",
+  "arabicLang": "🇸🇦 عربی",
+  "spanishLang": "🇪🇸 اسپانیایی",
+  "germanLang": "🇩🇪 آلمانی",
+  "russianLang": "🇷🇺 روسی",
+  "chineseLang": "🇨🇳 چینی",
+    "azkarPageTitle": "اذکار",
+  "complete": "کامل شد!",
+  "click": "کلیک کن!",
+  "yasinDisc": "خواندن این سوره به‌ویژه در صبح می‌تواند روز پیش‌رو را بسیار بهتر کند",
+  "istighfarDisc": "الله توبه را دوست دارد، پس ناامید نشو و تمام تلاش خود را برای آمرزش انجام بده",
+  "waqiahDisc": "خواندن سوره واقعه در شب برای محافظت از فقر است و یادآوری ویژه‌ای از روز قیامت می‌باشد",
+  "surahMulkDisc": "خواندن این سوره، به‌ویژه ۳۰ آیه اول آن در شب، می‌تواند شفیع برای آمرزش باشد",
+  "qailolaDisc": "این یک خواب نیمروزی است که می‌تواند از ۱۵ دقیقه تا ۱ ساعت باشد برای کسب انرژی بیشتر در روز یا برای قیام",
+  "ishraqPrayerDiscreption": "نماز اشراق عبادت ویژه‌ای است که پس از طلوع کامل خورشید انجام می‌شود و یادآور الله است",
+  "clearHistory": "پاک کردن تاریخچه ردیاب",
+
+  "selectLang": "زبان خود را انتخاب کنید",
+  "next": "بعدی!",
+
+  "permissionAlertContent": "برای اینکه یادآوری‌های سنت دقیقاً در زمان مناسب به شما برسند، لطفاً در صفحه بعد گزینه «Alarms & Reminders» را فعال کنید.",
+  "enable": "همین حالا فعال کنید!",
+
+  "howCanI": "هر کسی که درباره او بخواند، دوست دارد مانند او (صلی‌الله‌علیه‌وسلم) باشد.\nاما سوال اینجاست: چگونه می‌توانی مثل او باشی؟\nما به تو کمک می‌کنیم 😊!\nبله! ما به تو کمک می‌کنیم شخصیتی مانند او داشته باشی: محترم، مهربان، رهبر، منظم و در نهایت یک\nانسان!",
+
+  "didYouKnow": "آیا می‌دانستید؟",
+
+  "expectations": "تنها کاری که باید انجام دهید این است که به کتابخانه ما بروید، سنتی را که دوست دارید انتخاب کنید و ما برای شما اعلان ارسال می‌کنیم.\nهمچنین چیزهایی را به شما یادآوری می‌کنیم که به شما کمک می‌کند آن شخصیت درخشان را به دست آورید.\nاما! آیا آماده‌اید بهترین نسخه خود را برای این دنیا و آخرت بسازید؟",
+
+  "ready": "آماده‌ام! 😮‍💨",
+
+  "aboutMohammad": "آیا می‌دانستید که محمد (صلی‌الله‌علیه‌وسلم) به خاطر اخلاق زیبایش شناخته می‌شد، به‌گونه‌ای که حتی دشمنانش به او اعتماد داشتند؟ او همیشه راستگو، مهربان و سرشار از رحمت بود.\nاو به فقرا اهمیت می‌داد، کسانی را که به او آسیب رسانده بودند می‌بخشید—even زمانی که قدرت مجازات داشت—و با وجود اینکه یک رهبر بزرگ بود، با تواضع زندگی می‌کرد. او جامعه را با عدالت و رحمت متحول ساخت و مردم را به صداقت، صبر و احترام دعوت کرد.\nشبیه او شدن چیز کوچکی نیست؛ بلکه خود یک دستاورد بزرگ است، مسیری که هر روز شخصیت و ارزش تو را بالا می‌برد.",
+
+  "selectLangContent": "دوست عزیز!\nزبان و نام اولین پل ارتباطی بین من و تو هستند، پس ابتدا زبانی را که با آن راحت‌تری انتخاب کن و سپس بگو تو را چه بنامم.",
+
+  "enterName": "نام خود را وارد کنید........",
+
+  "changeTheme": "تغییر تم",
+  "changeLang": "تغییر زبان",
+  "credits": "امتیازات",
+
+  "morningGreetings": "صبح بخیر",
+  "eveningGreetings": "عصر بخیر",
+  "mainGreeting": "السلام علیکم",
+  "mainSubTitle": "پیروی از سنت اصیل، راهی به سوی بهشت",
+
+  "noonGreeting": "ظهر بخیر",
+  "nightGreetings": "شب بخیر",
+  "midNightGreetings": "نیمه‌شب بخیر",
+
+  "alertBoxTitle": "با موفقیت ذخیره شد",
+  "alertBoxContent": "این سنت اکنون در بخش انتخاب‌شده‌ها در دسترس است و می‌توانید برای آن یادآور تنظیم کنید",
+  "alertBoxActionGoToSelected": "رفتن به انتخاب‌شده‌ها",
+  "alertBoxActionDone": "تمام",
+
+  "savedReminderMessege": "یادآور فعال شد!",
+  "saveReminderButtonText": "ذخیره و فعال‌سازی یادآور",
+
+  "deletingReminder": "در حال حذف سنت",
+  "deletingReminderSnackbar": "با موفقیت حذف شد!",
+  "deletingReminderContent": "آیا می‌خواهید این سنت را از بخش انتخاب‌شده‌ها حذف کنید؟ در صورت حذف، دیگر به شما یادآوری نخواهد شد!",
+  "deletingReminderCancel": "لغو",
+  "deletingReminderDelete": "حذف کن!",
+
+  "navBarMain": "اصلی",
+  "navBarLibrary": "کتابخانه",
+  "navBarSelected": "منتخب",
+  "navBarMore": "بیشتر",
+
+  "recommondedSunnahs": "سنت‌های پیشنهادی برای اکنون:",
+
+  "morningZikr": "اذکار صبحگاهی",
+  "miswak": "مسواک",
+  "ishraqPrayer": "نماز اشراق",
+  "qailola": "استراحت نیمروزی\n(قیلوله)",
+  "dhuhaPrayer": "نماز ضحی",
+  "quran": "قرآن بخوانید",
+
+  "eveningZikr": "اذکار شامگاهی",
+  "surahMulk": "سوره ملک",
+  "surahSajda": "سوره سجده",
+  "surahWaqiah": "سوره واقعه",
+
+  "beforeNightZikr": "اذکار قبل از خواب",
+  "qyamUlLail": "نماز شب\n(قیام اللیل)",
+  "surahYasin": "سوره یاسین",
+  "astaghfar": "استغفار",
+
+  "selectedSunnahTitle": "سنت‌های انتخاب‌شده",
+  "nullScreenAlert": "هنوز هیچ سنتی انتخاب نشده است.",
+
+  "libraryAppBarTitle": "کتابخانه سنت‌ها",
+
+  "morning": "صبح",
+  "timeBased": "بر اساس زمان",
+  "worshipSunnahs": "عبادت",
+  "socialSunnahs": "اجتماعی",
+  "spritualSunnahs": "شخصیت",
+
+  "addBookmark": "افزودن به انتخاب‌شده‌ها",
+
+  "libraryWipingFace": "پاک کردن صورت",
+  "libraryAlhamdulillahAfterWaking": "الحمدلله پس از بیدار شدن",
+  "libraryUsingMiswak": "استفاده از مسواک",
+  "libraryCleaningNoseThreeTimes": "پاک کردن بینی ۳ بار",
+  "libraryWashingHandsBeforeWater": "شستن دست‌ها قبل از قرار دادن در آب",
+
+  "librarySunnahFajr": "سنت فجر",
+  "librarySittingAfterFajrUntilSunrise": "نشستن بعد از فجر تا طلوع آفتاب",
+  "libraryMorningAdhkar": "اذکار صبحگاهی",
+  "libraryDuhaPrayer": "نماز ضحی",
+
+  "libraryRawatibPrayers": "نمازهای رواتب (قبل/بعد از نمازهای واجب)",
+  "librarySunnahBeforeAsr": "سنت قبل از عصر",
+  "librarySunnahBeforeMaghrib": "سنت قبل از مغرب",
+  "librarySunnahBeforeIsha": "سنت قبل از عشاء",
+
+  "libraryEveningAdhkar": "اذکار شامگاهی",
+  "librarySittingAfterMaghrib": "نشستن بعد از مغرب",
+
+  "libraryQiyamAlLayl": "قیام اللیل",
+  "libraryWitr": "وتر",
+  "libraryNightDuas": "دعاهای شب",
+  "librarySleepingOnRightSide": "خوابیدن بر پهلوی راست",
+  "libraryDuasBeforeSleep": "دعاهای قبل از خواب",
+  "librarySayingBismillahInWudu": "گفتن بسم‌الله در وضو",
+  "libraryWashingLimbsThreeTimes": "شستن اعضا ۳ بار",
+  "libraryKhilalBetweenFingersToes": "خلل بین انگشتان (دست و پا)",
+  "libraryMiswakDuringWudu": "استفاده از مسواک در وضو",
+  "libraryTwoRakahAfterWudu": "دو رکعت نماز بعد از وضو",
+
+  "libraryRaisingHands": "بالا بردن دست‌ها",
+  "libraryDuaAlIstiftah": "دعای استفتاح",
+  "libraryExtraTasbeehInRukuSujood": "تسبیح بیشتر در رکوع و سجود",
+  "libraryDuaBetweenTwoSujood": "دعای بین دو سجده",
+  "libraryLongerSujood": "طولانی کردن سجده",
+
+  "librarySeekingRefugeBeforeRecitation": "پناه بردن (اعوذ بالله) قبل از تلاوت",
+  "librarySayingAmeen": "گفتن آمین",
+  "libraryFullDhikrAfterRuku": "ذکر کامل بعد از رکوع",
+
+  "libraryEnterWithRightFoot": "ورود با پای راست",
+  "libraryDuaEnteringMosque": "دعای ورود به مسجد",
+  "libraryTahiyyatAlMasjid": "تحیة المسجد",
+  "libraryWalkingCalmly": "آرام راه رفتن",
+  "libraryUsingSutrah": "استفاده از سُتره",
+
+  "libraryRepeatingAfterMuadhin": "تکرار پس از مؤذن",
+  "librarySendingSalawat": "فرستادن صلوات",
+  "libraryDuaAfterAdhan": "دعای بعد از اذان",
+  "libraryMakingPersonalDua": "دعای شخصی",
+
+  "librarySayingBismillah": "گفتن بسم‌الله",
+  "librarySalamUponEntering": "سلام هنگام ورود",
+  "libraryDuaLeavingHome": "دعای خروج از خانه",
+  "libraryMiswakWhenEntering": "استفاده از مسواک هنگام ورود",
+
+  "libraryWearingRightSideFirst": "ابتدا پوشیدن سمت راست",
+  "libraryDuaWhenWearingClothes": "دعای هنگام پوشیدن لباس",
+  "libraryRemovingLeftSideFirst": "ابتدا درآوردن سمت چپ",
+
+  "libraryBismillahBeforeEating": "گفتن بسم‌الله قبل از غذا",
+  "libraryEatingWithRightHand": "خوردن با دست راست",
+  "libraryEatingWhatIsNear": "خوردن از آنچه نزدیک است",
+  "libraryDrinkingInThreeBreaths": "نوشیدن در سه نفس",
+
+  "librarySmiling": "لبخند زدن",
+  "librarySalam": "سلام",
+  "libraryGoodIntention": "نیت نیک",
+  "libraryRenewingIntentionInDailyActs": "تجدید نیت در کارهای روزانه",
+  "libraryTurningHabitsIntoWorship": "تبدیل عادت‌ها به عبادت",
+  "libraryRememberingAllahConstantly": "یاد خدا به طور مداوم",
+  "libraryGratitude": "شکرگزاری",
+  "libraryReflectionOnBlessings": "تفکر در نعمت‌ها",
+
+  "libraryLeavingSinsToHelpQiyam": "ترک گناهان برای کمک به قیام",
+  "libraryFightingNafs": "مبارزه با نفس",
+  "libraryAvoidingInnovation": "پرهیز از بدعت",
+  "libraryTafakkurOnCreation": "تفکر در آفرینش",
+  "libraryMonthlyQuranCompletion": "ختم ماهانه قرآن",
+
+  "sayingBismillahGeneralTitle": "گفتن بسم‌الله",
+  "salamUponEnteringTitle": "سلام هنگام ورود",
+  "duaLeavingHomeTitle": "دعای هنگام خروج از خانه",
+  "miswakWhenEnteringHomeTitle": "مسواک زدن هنگام ورود به خانه",
+  "wearingRightSideFirstTitle": "ابتدا پوشیدن سمت راست",
+  "duaWhenWearingClothesTitle": "دعای هنگام پوشیدن لباس",
+  "removingLeftSideFirstTitle": "ابتدا درآوردن سمت چپ",
+  "bismillahBeforeEatingTitle": "گفتن بسم‌الله قبل از غذا",
+  "eatingWithRightHandTitle": "خوردن با دست راست",
+  "eatingWhatIsNearTitle": "خوردن از آنچه نزدیک است",
+  "drinkingInThreeBreathsTitle": "نوشیدن در سه نفس",
+  "smilingTitle": "لبخند زدن",
+  "givingSalamTitle": "سلام کردن",
+  "goodIntentionTitle": "نیت نیک",
+  "renewingIntentionTitle": "تجدید نیت",
+  "turningHabitsIntoWorshipTitle": "تبدیل عادت‌ها به عبادت",
+  "rememberingAllahConstantlyTitle": "یاد خدا به طور مداوم",
+  "gratitudeTitle": "شکرگزاری",
+  "reflectionOnBlessingsTitle": "تفکر در نعمت‌ها",
+  "leavingSinsForQiyamTitle": "ترک گناهان برای کمک به قیام",
+  "fightingNafsTitle": "مبارزه با نفس",
+  "avoidingInnovationTitle": "پرهیز از بدعت",
+  "tafakkurOnCreationTitle": "تفکر در آفرینش",
+  "monthlyQuranCompletionTitle": "ختم ماهانه قرآن",
+  
+  "wipingFaceAfterWaking": "پاک کردن آرام صورت هنگام بیدار شدن از سنت‌های لطیف و زیبای پیامبر ﷺ است. این کار آثار خواب را از بین می‌برد و به شما کمک می‌کند روز خود را با آگاهی و یاد خدا آغاز کنید.\n(Muslim 763)",
+
+  "sayingAlhamdulillahAfterWaking": "روز خود را با شکرگزاری آغاز کنید و بگویید: «الحمدلله الذی احیانا بعد ما اماتنا…» — ستایش خدایی که پس از خواب به شما زندگی دوباره بخشید. این ذکر از همان لحظه اول، دل شما را به هدفش پیوند می‌دهد.\n(Bukhari 6312)",
+
+  "usingMiswakAfterWaking": "استفاده از مسواک پس از بیدار شدن—به‌ویژه در شب—از اعمال محبوب نزد پیامبر ﷺ بود. این کار دهان را پاک می‌کند و شما را برای نماز و ذکر آماده می‌سازد و پاکیزگی جسمی را با آمادگی روحی همراه می‌کند.\n(Bukhari 245, Muslim 255)",
+
+  "cleaningNoseThreeTimes": "پاک کردن بینی سه بار پس از بیدار شدن سنتی است که به پاکیزگی کمک کرده و بدن را تازه می‌سازد. پیامبر ﷺ این کار را به‌عنوان بخشی از بازگرداندن طهارت پس از خواب آموزش دادند.\n(Bukhari 3295, Muslim 238)",
+
+  "washingHandsBeforeWater": "پیش از قرار دادن دست‌ها در آب پس از بیدار شدن، آن‌ها را سه بار بشویید. این سنت شما را از ناپاکی‌های نادیدنی حفظ کرده و آگاهی در اعمال روزانه ایجاد می‌کند.\n(Bukhari 162, Muslim 278)",
+
+  "sunnahOfFajr": "دو رکعت سبک پیش از نماز فجر از تمام دنیا و آنچه در آن است باارزش‌تر است. آن را حفظ کنید تا یکی از بزرگ‌ترین گنج‌های روز خود را نگه دارید.\n(Muslim 725)",
+
+  "sittingAfterFajr": "نشستن پس از نماز فجر و یاد خدا تا طلوع آفتاب، آرامش، برکت و پاداش عظیمی به همراه دارد. این کار حال‌وهوای معنوی قدرتمندی برای تمام روز شما ایجاد می‌کند.\n(Muslim 670)",
+
+  "morningAdhkar": "کسی که بر اذکار صبحگاهی پایبند باشد، در احاطه حفاظت الهی قرار می‌گیرد. این اذکار قلب را تقویت کرده، آرامش می‌بخشند و در طول روز از شما محافظت می‌کنند.\n(Muslim 2723)",
+
+  "duhaPrayer": "نماز ضحی مانند صدقه‌ای از سوی تمام مفاصل بدن شماست. این عبادت، نشانه‌ای زیبا از شکرگزاری برای سلامتی، حرکت و خود زندگی است.\n(Muslim 720)",
+
+  "rawatibDaily": "کسی که به‌طور مداوم ۱۲ رکعت نماز سنت در روز بخواند، در بهشت برای او خانه‌ای ساخته می‌شود. این اعمال کوچک روزانه، پاداشی عظیم و جاودانه دارند.\n(Muslim 728)",
+
+  "sunnahBeforeAsr": "پیامبر ﷺ برای کسانی که چهار رکعت پیش از نماز عصر می‌خوانند دعاي رحمت کردند. چند لحظه اضافه می‌تواند رحمت خدا را برای شما به ارمغان آورد.\n(Abu Dawud 1271, Tirmidhi 430 – Hasan)",
+
+  "sunnahBeforeMaghrib": "پیامبر ﷺ نماز پیش از مغرب را برای هرکس که بخواهد تشویق کردند. این فرصتی ساده برای کسب پاداش بیشتر پیش از نماز واجب است.\n(Bukhari 1183)",
+
+  "sunnahBeforeIsha": "میان اذان و اقامه فرصتی برای نماز وجود دارد. از این لحظات پربرکت استفاده کنید تا پیش از عشاء به خدا نزدیک‌تر شوید.\n(Bukhari 624, Muslim 838)",
+
+  "eveningAdhkar": "اذکار شامگاهی سپری برای شب شما هستند. آن‌ها از شما محافظت کرده، قلبتان را آرام می‌کنند و شما را برای استراحت در پناه خدا آماده می‌سازند.\n(Muslim 2723)",
+
+  "sittingAfterMaghrib": "ماندن در جای خود پس از نماز برای ذکر، پاداشی پیوسته به همراه دارد و ارتباط شما با خدا را تقویت می‌کند.\n(Muslim 670)",
+
+  "qiyamAlLayl": "بهترین نماز پس از نمازهای واجب، نماز شب است. در سکوت شب، ارتباط شما با خدا عمیق‌تر و خالص‌تر می‌شود.\n(Muslim 1163)",
+
+  "witrPrayer": "نماز وتر از سنت‌های بسیار تأکید شده است. آن را ترک نکنید، زیرا شب شما را کامل کرده و روزتان را با عبادت و ذکر پایان می‌دهد.\n(Abu Dawud 1416, Tirmidhi 453)",
+
+  "nightDuas": "هرکس در شب بیدار شود و خدا را با دعاهای وارد شده یاد کند، دعای او پذیرفته می‌شود. این لحظات فرصت‌های نادری برای نزدیکی به خدا هستند.\n(Bukhari 1154)",
+
+  "sleepingRightSide": "خوابیدن بر پهلوی راست مطابق سنت پیامبر ﷺ است و هم آسایش جسمی و هم فایده معنوی به همراه دارد.\n(Bukhari 6311, Muslim 2710)",
+
+  "duasBeforeSleep": "پایان دادن روز با دعا، توکل شما را به خدا نشان می‌دهد. روح شما در پناه او آرام می‌گیرد و بیدار شدن دوباره رحمتی از سوی اوست.\n(Bukhari 6320, Muslim 2714)",
+
+  "bismillahWudu": "وضوی خود را با «بسم‌الله» آغاز کنید تا عمل شما سرشار از برکت و نیت شود و یک کار عادی به عبادت تبدیل گردد.\n(Abu Dawud 101; Tirmidhi 25)",
+
+  "washingLimbsThreeTimes": "شستن هر عضو تا سه بار در وضو مطابق روش کامل پیامبر ﷺ است و هم پاکیزگی و هم پاداش را به همراه دارد.\n(Bukhari 159; Muslim 226)",
+
+  "khilalFingersToes": "عبور دادن آب بین انگشتان دست و پا، وضوی شما را کامل می‌کند و نشان‌دهنده دقت در عبادت است.\n(Abu Dawud 142; Tirmidhi 38)",
+
+  "miswakDuringWudu": "استفاده از مسواک در وضو، پاکیزگی بدن و دهان را با هم ترکیب کرده و شما را به‌طور کامل برای نماز آماده می‌سازد.\n(Ahmad 7406; Nasa’i 5)",
+
+  "twoRakahAfterWudu": "خواندن دو رکعت نماز پس از وضو عملی ویژه است که پاداش بزرگی دارد و درهای بهشت را می‌گشاید.\n(Bukhari 1149; Muslim 245)",
+
+  "raisingHandsInPrayer": "بالا بردن دست‌ها در نقاط مشخص نماز مطابق سنت دقیق پیامبر ﷺ است و خشوع و توجه را افزایش می‌دهد.\n(Bukhari 735)",
+
+  "duaIstiftah": "خواندن دعای استفتاح پس از تکبیر اول، قلب شما را برای ایستادن با تمرکز و اخلاص در برابر خدا آماده می‌کند.\n(Muslim 399)",
+
+  "extraTasbeehRukuSujood": "تکرار بیشتر تسبیح در رکوع و سجود، خشوع را عمیق‌تر کرده و ارتباط شما با خدا را تقویت می‌کند.\n(Muslim 772)",
+
+  "duaBetweenTwoSujood": "گفتن «رب اغفر لی» بین دو سجده، لحظه‌ای برای طلب آمرزش با اخلاص و فروتنی است.\n(Abu Dawud 850)",
+  
+  "longerSujood": "طولانی‌تر کردن سجده باعث می‌شود به الله نزدیک‌تر شوید و این لحظه را به زمانی قدرتمند برای دعا و تفکر تبدیل می‌کند.\n(Muslim 479)",
+
+"seekingRefugeBeforeRecitation": "گفتن «أعوذ بالله من الشیطان الرجیم» پیش از تلاوت، شما را از حواس‌پرتی‌ها محافظت کرده و تمرکزتان را حفظ می‌کند.\n(Abu Dawud 775)",
+
+"sayingAmeen": "گفتن «آمین» بعد از سوره فاتحه، دعای شما را با دعای فرشتگان هم‌راستا می‌سازد و سبب قبولی نماز می‌شود.\n(Bukhari 782; Muslim 410)",
+
+"fullDhikrAfterRuku": "کامل گفتن ذکر پس از برخاستن از رکوع، نماز شما را با شکرگزاری و یاد درست الله تکمیل می‌کند.\n(Muslim 477)",
+
+"enterWithRightFoot": "داخل شدن به مسجد با پای راست، نشانه احترام و پیروی از سنت در مکان‌های مقدس است.\n(Hakim 1/218)",
+
+"duaEnteringMosque": "گفتن دعای وارد شدن به مسجد، درهای رحمت را باز کرده و قلب شما را برای عبادت آماده می‌سازد.\n(Muslim 713)",
+
+"tahiyyatAlMasjid": "خواندن دو رکعت قبل از نشستن در مسجد، احترام به خانه الله بوده و پاداش بزرگی دارد.\n(Bukhari 444; Muslim 714)",
+
+"walkingCalmlyToPrayer": "با آرامش و وقار به سوی نماز رفتن، نشان‌دهنده احترام به عبادت بوده و پاداش شما را افزایش می‌دهد.\n(Bukhari 908; Muslim 602)",
+
+"usingSutrah": "قرار دادن ستره (مانع) هنگام نماز، تمرکز شما را حفظ کرده و از سنت پیامبر ﷺ پیروی می‌کند.\n(Abu Dawud 689)",
+
+"repeatingAfterMuadhin": "تکرار کردن اذان همراه با مؤذن، شما را به دعوت نماز وصل کرده و پاداش بزرگی دارد.\n(Bukhari 611; Muslim 383)",
+
+"sendingSalawatAfterAdhan": "فرستادن صلوات بر پیامبر ﷺ بعد از اذان، مقام شما را بالا برده و در روز قیامت شما را به او نزدیک‌تر می‌سازد.\n(Muslim 384)",
+
+"duaAfterAdhan": "گفتن دعای بعد از اذان، وسیله‌ای برای قبولی دعاهای شماست.\n(Bukhari 614)",
+
+"makingPersonalDuaAfterAdhan": "پس از اذان زمانی خاص برای قبولی دعاست—از آن برای درخواست نیازهای قلبی‌تان از الله استفاده کنید.\n(Abu Dawud 524)",
+
+"sayingBismillahGeneral": "گفتن «بسم الله» پیش از هر کار، آن را پر برکت کرده و اعمال روزمره را به عبادت تبدیل می‌کند.\n(Bukhari 5376)",
+
+"salamUponEntering": "سلام دادن هنگام ورود به خانه، صلح را گسترش داده، برکت می‌آورد و روابط را تقویت می‌کند.\n(Tirmidhi 2698)",
+
+"duaLeavingHome": "گفتن دعای خروج از خانه، توکل شما را بر الله قرار داده و در طول مسیر محافظت می‌کند.\n(Abu Dawud 5095; Tirmidhi 3426)",
+
+"miswakWhenEnteringHome": "استفاده از مسواک هنگام ورود به خانه، پیروی از سنت بوده و پاکیزگی و طراوت را حفظ می‌کند.\n(Muslim 253)",
+
+"wearingRightSideFirst": "آغاز پوشیدن لباس از سمت راست، نشان‌دهنده محبت به سنت حتی در کوچک‌ترین اعمال است.\n(Bukhari 168)",
+
+"duaWhenWearingClothes": "گفتن دعای پوشیدن لباس جدید، شما را به یاد می‌آورد که تمام نعمت‌ها از سوی الله است.\n(Abu Dawud 4020; Tirmidhi 1767)",
+
+"removingLeftSideFirst": "درآوردن لباس از سمت چپ، پیروی از راهنمایی متوازن پیامبر ﷺ است.\n(Abu Dawud 4141)",
+
+"bismillahBeforeEating": "گفتن «بسم الله» قبل از غذا، برکت را وارد غذا کرده و آن را از شیطان محافظت می‌کند.\n(Bukhari 5376; Muslim 2022)",
+
+"eatingWithRightHand": "با دست راست غذا خوردن از آداب اسلام بوده و نشان‌دهنده اطاعت در زندگی روزمره است.\n(Muslim 2020)",
+
+"eatingWhatIsNear": "خوردن از آنچه نزدیک شماست، نظم، احترام و آداب نیکو را آموزش می‌دهد.\n(Bukhari 5376)",
+
+"drinkingInThreeBreaths": "نوشیدن در سه نفس، سالم‌تر بوده و مطابق سنت پیامبر ﷺ است.\n(Muslim 2028)",
+
+"smiling": "یک لبخند صادقانه صدقه است. خوشحالی را پخش کرده، دل‌ها را نرم می‌کند و از الله پاداش دارد.\n(Tirmidhi 1956)",
+
+"givingSalam": "گسترش سلام، محبت را میان مردم افزایش داده و کلیدی برای ورود به بهشت است.\n(Muslim 54)",
+
+"goodIntention": "اعمال بر اساس نیت‌ها سنجیده می‌شوند. با اخلاص، حتی کارهای عادی به عبادت تبدیل می‌شوند.\n(Bukhari 1; Muslim 1907)",
+
+"renewingIntention": "نیت خود را به‌طور مداوم تازه کنید تا اعمال روزمره‌تان به الله متصل مانده و پُرپاداش باشند.\n(Bukhari 1; Muslim 1907)",
+
+"turningHabitsIntoWorship": "با نیت صادقانه، حتی عادت‌هایی مانند خوردن، خوابیدن و کار کردن می‌توانند عبادت شوند.\n(Bukhari 1)",
+
+"rememberingAllahConstantly": "زبان خود را با یاد الله تازه نگه دارید تا آرامش در قلب و نور در زندگی‌تان جاری شود.\n(Tirmidhi 3375)",
+
+"gratitude": "شکرگزاری به الله باعث افزایش نعمت‌ها شده و قناعت را در قلب به وجود می‌آورد.\n(Bukhari 1130)",
+
+"reflectionOnBlessings": "تفکر در نعمت‌های الله، قدردانی شما را عمیق‌تر کرده و ایمان‌تان را تقویت می‌کند.\n(Qur’an 14:7)",
+
+"leavingSinsForQiyam": "دوری از گناهان، قلب شما را قوی ساخته و ایستادن در نماز شب را آسان‌تر می‌کند.\n(Ibn Majah 4245)",
+
+"fightingNafs": "مبارزه با نفس در راه اطاعت الله، یکی از بزرگ‌ترین انواع جهاد است.\n(Tirmidhi 1621)",
+
+"avoidingInnovation": "پایبندی به سنت و دوری از بدعت، خلوص دین شما را حفظ می‌کند.\n(Muslim 867)",
+
+"tafakkurOnCreation": "تفکر در آفرینش آسمان‌ها و زمین، ایمان را تقویت کرده و عظمت الله را در دل زنده می‌کند.\n(Qur’an 3:191)",
+
+"monthlyQuranCompletion": "تکمیل منظم قرآن، قلب شما را زنده نگه داشته و شما را با کلام الله پیوند می‌دهد.\n(Abu Dawud 1394; Tirmidhi 2949)"
+
+}

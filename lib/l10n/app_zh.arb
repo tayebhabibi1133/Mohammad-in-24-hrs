@@ -1,0 +1,318 @@
+{
+    "@@locale": "zh",
+  "englishLang": "🇺🇸 英语",
+  "persianLang": "🇮🇷 波斯语",
+  "pashtoLang": "🇦🇫 普什图语",
+  "arabicLang": "🇸🇦 阿拉伯语",
+  "spanishLang": "🇪🇸 西班牙语",
+  "germanLang": "🇩🇪 德语",
+  "russianLang": "🇷🇺 俄语",
+  "chineseLang": "🇨🇳 中文",
+  "selectLang": "选择你的语言",
+  "next": "下一步！",
+  "permissionAlertContent": "为确保 Sunnah 提醒准时送达，请在下一屏允许“闹钟与提醒”。",
+  "enable": "立即启用！",
+  "howCanI": "任何心智健康的人在了解先知 ﷺ 后都希望像他一样。\n但是，问题是：你如何才能像他一样？\n我们会帮助你 😊！\n是的！我们将帮助你塑造像他一样的品格：受人尊敬、善良、领导力强、守纪律，最终成为真正的人！",
+  "didYouKnow": "你知道吗？",
+  "expectations": "你只需浏览我们的库，选择你喜欢的 Sunnah，我们将发送提醒。\n我们还会提醒你一些帮助你获得卓越品格的事项。\n那么，你准备好为今生与来世打造最好的自己了吗？",
+  "ready": "我准备好了！ 😮‍💨",
+  "aboutMohammad": "你知道吗，穆罕默德 ﷺ 的品格如此美好，即使敌人也信任他。他总是真诚、善良、富有同情心。\n他关心穷人，即使有权惩罚也会原谅伤害他的人，尽管他是伟大的领袖，却生活谦逊；他以公正与仁慈改变社会，教人诚实、耐心、尊重。成为像他一样的人，不是小事。\n这是自我成长的成就，每天提升你的品格与价值。",
+  "selectLangContent": "亲爱的！\n语言和名字是你我之间的第一纽带，所以先选择你觉得舒适的语言，然后告诉我该如何称呼你。",
+  "enterName": "输入你的名字……",
+  "changeTheme": "深色模式",
+  "changeLang": "切换语言",
+  "credits": "鸣谢",
+  "morningGreetings": "早安",
+  "eveningGreetings": "晚上好",
+  "mainGreeting": "萨拉姆（Salam'un Alaikum）",
+  "mainSubTitle": "遵循真实 Sunnah，通往天堂之路",
+  "noonGreeting": "中午好",
+  "nightGreetings": "晚安",
+  "midNightGreetings": "午夜好",
+  "alertBoxTitle": "保存成功",
+  "alertBoxContent":"此 Sunnah 已添加至已选标签，可在此设置提醒",
+  "alertBoxActionGoToSelected": "前往已选",
+  "alertBoxActionDone": "完成",
+  "savedReminderMessege": "提醒已激活！",
+  "saveReminderButtonText": "保存并启用提醒",
+  "deletingReminder": "删除 Sunnah",
+    "azkarPageTitle": "赞词",
+  "complete": "已完成！",
+  "click": "点击！",
+  "yasinDisc": "诵读这章经文，尤其是在清晨，可以让接下来的一天更加美好",
+  "istighfarDisc": "真主喜爱忏悔，因此不要灰心，要尽力寻求宽恕",
+  "waqiahDisc": "在夜晚诵读《瓦基阿章》有助于防止贫困，同时也是对审判日的特别提醒",
+  "surahMulkDisc": "在夜晚诵读此章，尤其是前30节，可以成为获得宽恕的代求",
+  "qailolaDisc": "这是午间小憩，时间可为15分钟到1小时，用于补充白天的精力或为夜间礼拜做准备",
+  "ishraqPrayerDiscreption": "伊什拉格礼拜是一种特别的礼拜，在太阳完全升起后进行，有助于提醒人们记念真主",
+  "clearHistory": "清除跟踪记录",
+  "deletingReminderSnackbar": "删除成功！",
+  "deletingReminderContent": "你确定要从已选中删除此 Sunnah 吗？删除后将不再提醒！",
+  "deletingReminderCancel": "取消",
+  "deletingReminderDelete": "删除！",
+  "navBarMain": "主页",
+  "navBarLibrary": "Sunnah 库",
+  "navBarSelected": "已选",
+  "navBarMore": "更多",
+  "recommondedSunnahs": "当前推荐 Sunnah：",
+  "morningZikr": "晨间 Dhikr",
+  "miswak": "Miswak",
+  "ishraqPrayer": "晨光礼（Ishraq）",
+  "qailola": "午休\n(Qailula)",
+  "dhuhaPrayer": "Duha 礼",
+  "quran": "读古兰经",
+  "eveningZikr": "晚间 Dhikr",
+  "surahMulk": "苏拉·穆尔克",
+  "surahSajda": "苏拉·苏朱达",
+  "surahWaqiah": "苏拉·瓦基亚",
+  "beforeNightZikr": "睡前 Dhikr",
+  "qyamUlLail": "夜间祈祷\n(Qyam ul Lail)",
+  "surahYasin": "苏拉·亚辛",
+  "astaghfar": "求安拉宽恕（Astaghfar）",
+  "selectedSunnahTitle": "已选 Sunnah",
+  "nullScreenAlert": "尚未选择 Sunnah。",
+  "libraryAppBarTitle": "Sunnah 库",
+  "morning": "晨间",
+  "timeBased": "按时间",
+  "worshipSunnahs": "崇拜",
+  "socialSunnahs": "社交",
+  "spritualSunnahs": "品格",
+  "addBookmark": "添加到已选",
+  
+  "libraryWipingFace": "醒后擦脸",
+  "libraryAlhamdulillahAfterWaking": "醒后说 ‘Alhamdulillah’",
+  "libraryUsingMiswak": "使用 Miswak",
+  "libraryCleaningNoseThreeTimes": "醒后擤鼻三次",
+  "libraryWashingHandsBeforeWater": "接触水前洗手",
+
+  "librarySunnahFajr": "晨礼 Sunnah",
+  "librarySittingAfterFajrUntilSunrise": "晨礼后坐到日出",
+  "libraryMorningAdhkar": "晨间 Dhikr",
+  "libraryDuhaPrayer": "Duha 礼",
+
+  "libraryRawatibPrayers": "Rawatib 礼（义务礼前/后）",
+  "librarySunnahBeforeAsr": "午礼前 Sunnah",
+  "librarySunnahBeforeMaghrib": "晚礼前 Sunnah",
+  "librarySunnahBeforeIsha": "夜礼前 Sunnah",
+
+  "libraryEveningAdhkar": "晚间 Dhikr",
+  "librarySittingAfterMaghrib": "晚礼后坐",
+
+  "libraryQiyamAlLayl": "夜间祈祷（Qiyam al-Layl）",
+  "libraryWitr": "Witr 礼",
+  "libraryNightDuas": "夜间祈祷 Du‘a",
+  "librarySleepingOnRightSide": "右侧睡觉",
+  "libraryDuasBeforeSleep": "睡前祈祷",
+  "librarySayingBismillahInWudu": "洗礼时说 Bismillah",
+  "libraryWashingLimbsThreeTimes": "洗肢体三次",
+  "libraryKhilalBetweenFingersToes": "手指/脚趾间冲水（Khilal）",
+  "libraryMiswakDuringWudu": "洗礼时使用 Miswak",
+  "libraryTwoRakahAfterWudu": "洗礼后两拜",
+
+  "libraryRaisingHands": "举手祈祷",
+  "libraryDuaAlIstiftah": "开场 Du‘a（Al-Istiftah）",
+  "libraryExtraTasbeehInRukuSujood": "弯腰/叩拜时额外 Tasbeeh",
+  "libraryDuaBetweenTwoSujood": "两叩拜间祈祷",
+  "libraryLongerSujood": "延长叩拜",
+
+  "librarySeekingRefugeBeforeRecitation": "诵经前寻求保护",
+  "librarySayingAmeen": "念 ‘Ameen’",
+  "libraryFullDhikrAfterRuku": "起身后完整 Dhikr",
+
+  "libraryEnterWithRightFoot": "右脚入清真寺",
+  "libraryDuaEnteringMosque": "入清真寺 Du‘a",
+  "libraryTahiyyatAlMasjid": "清真寺礼拜（Tahiyyat al-Masjid）",
+  "libraryWalkingCalmly": "平静行走",
+  "libraryUsingSutrah": "使用 Sutrah",
+
+  "libraryRepeatingAfterMuadhin": "跟随宣礼员重复祷告词",
+  "librarySendingSalawat": "发送 Salawat",
+  "libraryDuaAfterAdhan": "宣礼后 Du‘a",
+  "libraryMakingPersonalDua": "个人 Du‘a",
+  "librarySayingBismillah": "说 Bismillah",
+  "librarySalamUponEntering": "入室问候 Salam",
+  "libraryDuaLeavingHome": "出门 Du‘a",
+  "libraryMiswakWhenEntering": "入室使用 Miswak",
+  
+  "libraryWearingRightSideFirst": "穿衣先右侧",
+  "libraryDuaWhenWearingClothes": "穿衣祈祷",
+  "libraryRemovingLeftSideFirst": "脱衣先左侧",
+
+  "libraryBismillahBeforeEating": "吃饭前说 Bismillah",
+  "libraryEatingWithRightHand": "用右手吃饭",
+  "libraryEatingWhatIsNear": "吃面前的食物",
+  "libraryDrinkingInThreeBreaths": "分三口喝水",
+
+  "librarySmiling": "微笑",
+  "librarySalam": "问候 Salam",
+  "libraryGoodIntention": "良好意图",
+  "libraryRenewingIntentionInDailyActs": "日常行动中更新意图",
+  "libraryTurningHabitsIntoWorship": "把习惯变为崇拜",
+  "libraryRememberingAllahConstantly": "不断记念安拉",
+  "libraryGratitude": "感恩",
+  "libraryReflectionOnBlessings": "反思安拉的恩典",
+
+  "libraryLeavingSinsToHelpQiyam": "戒除罪行以助夜祷",
+  "libraryFightingNafs": "抗争内心之欲",
+  "libraryAvoidingInnovation": "避免创新",
+  "libraryTafakkurOnCreation": "思考造物",
+  "libraryMonthlyQuranCompletion": "每月完成诵读古兰经",
+
+  "sayingBismillahGeneralTitle": "说 Bismillah",
+  "salamUponEnteringTitle": "入室问候 Salam",
+  "duaLeavingHomeTitle": "出门祈祷",
+  "miswakWhenEnteringHomeTitle": "入室使用 Miswak",
+  "wearingRightSideFirstTitle": "穿衣先右侧",
+  "duaWhenWearingClothesTitle": "穿衣祈祷",
+  "removingLeftSideFirstTitle": "脱衣先左侧",
+  "bismillahBeforeEatingTitle": "吃饭前说 Bismillah",
+  "eatingWithRightHandTitle": "用右手吃饭",
+  "eatingWhatIsNearTitle": "吃面前的食物",
+  "drinkingInThreeBreathsTitle": "分三口喝水",
+  "smilingTitle": "微笑",
+  "givingSalamTitle": "问候 Salam",
+  "goodIntentionTitle": "良好意图",
+  "renewingIntentionTitle": "更新意图",
+  "turningHabitsIntoWorshipTitle": "把习惯变为崇拜",
+  "rememberingAllahConstantlyTitle": "不断记念安拉",
+  "gratitudeTitle": "感恩",
+  "reflectionOnBlessingsTitle": "反思安拉的恩典",
+  "leavingSinsForQiyamTitle": "戒除罪行以助夜祷",
+  "fightingNafsTitle": "抗争内心之欲",
+  "avoidingInnovationTitle": "避免创新",
+  "tafakkurOnCreationTitle": "思考造物",
+  "monthlyQuranCompletionTitle": "每月完成诵读古兰经",
+  
+  "wipingFaceAfterWaking": "醒来时轻轻擦脸是先知 ﷺ 精美的日常 Sunnah 之一。它去除睡眠的影响，帮助你以对安拉的觉知和纪念开始一天。\n(Muslim 763)",
+
+  "sayingAlhamdulillahAfterWaking": "以感恩开始你的一天：说“Alhamdulillah alladhi ahyana ba‘da ma amatana…”，赞美赐你生命的安拉。这种 dhikr 从一开始就重新连接你的心灵与目的。\n(Bukhari 6312)",
+
+  "usingMiswakAfterWaking": "醒来后使用 miswak——尤其在夜间——是先知 ﷺ 所喜爱的。它净化口腔，为祈祷和纪念做好准备，将身体清洁与精神准备结合。\n(Bukhari 245, Muslim 255)",
+
+  "cleaningNoseThreeTimes": "醒后吹鼻三次是 Sunnah，促进清洁并让身体清爽。先知 ﷺ 教导这是恢复睡后纯净的一部分。\n(Bukhari 3295, Muslim 238)",
+
+  "washingHandsBeforeWater": "在醒后将手放入水中之前，先洗三次。这 Sunnah 保护你免受无形污秽，并培养每日行为的觉知。\n(Bukhari 162, Muslim 278)",
+
+  "sunnahOfFajr": "晨礼前的两拜 Sunnah 比整个世界更有价值。守护它们，你将保有每日最珍贵的宝藏之一。\n(Muslim 725)",
+
+  "sittingAfterFajr": "晨礼后静坐，直到日出间记念安拉，会带来宁静、祝福与巨大回报。它为你整日设定了强大的精神基调。\n(Muslim 670)",
+
+  "morningAdhkar": "坚持早晨的 dhikr 会让你受到神圣的保护。这些念诵强化心灵，带来平和，并守护你一整天。\n(Muslim 2723)",
+
+  "duhaPrayer": "Duha 礼就像为身体的每一个关节行施舍。它是对健康、运动与生命的美好感恩表达。\n(Muslim 720)",
+
+  "rawatibDaily": "每日坚持祈祷 12 拜 Sunnah 的人，将在天堂获得一座房子。这些小小的日常行为带来巨大的永恒回报。\n(Muslim 728)",
+
+  "sunnahBeforeAsr": "先知 ﷺ 为那些在‘Asr前祈祷四拜的人祈求怜悯。几分钟额外时间即可获得安拉的慈悯。\n(Abu Dawud 1271, Tirmidhi 430 – Hasan)",
+
+  "sunnahBeforeMaghrib": "先知 ﷺ 鼓励那些愿意的人在日落前祈祷 Sunnah。这是获得额外回报的简单机会。\n(Bukhari 1183)",
+
+  "sunnahBeforeIsha": "在 adhan 与 iqamah 之间有祈祷的机会。利用这些宝贵时刻接近安拉。\n(Bukhari 624, Muslim 838)",
+
+  "eveningAdhkar": "晚间 dhikr 是夜晚的屏障。它保护你，平静你的心，并准备你在安拉的照护下休息。\n(Muslim 2723)",
+
+  "sittingAfterMaghrib": "在祈祷后静坐进行 dhikr 可持续获得回报，并加强你与安拉的联系。\n(Muslim 670)",
+
+  "qiyamAlLayl": "义务祈祷后的最佳礼拜是夜间祈祷。在夜的宁静中，你与安拉的联系更深、更真诚。\n(Muslim 1163)",
+
+  "witrPrayer": "Witr 是极受强调的 Sunnah。不要忽略它，它完成你的夜晚并以崇拜和纪念封印你的一天。\n(Abu Dawud 1416, Tirmidhi 453)",
+
+  "nightDuas": "夜间醒来念安拉的规定祷告，祈求将被接受。这些时刻是与安拉亲近的罕见机会。\n(Bukhari 1154)",
+
+  "sleepingRightSide": "右侧睡觉遵循先知 ﷺ 的 Sunnah，同时带来身体舒适和精神益处。\n(Bukhari 6311, Muslim 2710)",
+
+  "duasBeforeSleep": "以祷告结束你的一天，把你的信任交给安拉。你的灵魂在祂的保护下休息，再次醒来是祂的恩典。\n(Bukhari 6320, Muslim 2714)",
+
+  "bismillahWudu": "以“Bismillah”开始洗礼，将祝福与意图注入你的行为，使日常行为转化为崇拜。\n(Abu Dawud 101; Tirmidhi 25)",
+
+  "washingLimbsThreeTimes": "洗每个肢体三次遵循先知 ﷺ 的完整做法，确保清洁与回报。\n(Bukhari 159; Muslim 226)",
+
+  "khilalFingersToes": "在手指与脚趾间冲水完善你的洗礼，体现对崇拜细节的关注。\n(Abu Dawud 142; Tirmidhi 38)",
+
+  "miswakDuringWudu": "在洗礼中使用 miswak，结合身体与口腔的清洁，为祈祷做好充分准备。\n(Ahmad 7406; Nasa’i 5)",
+
+  "twoRakahAfterWudu": "洗礼后祈祷两拜是一种特殊行为，带来巨大回报并开启天堂之门。\n(Bukhari 1149; Muslim 245)",
+
+  "raisingHandsInPrayer": "在祈祷特定时刻举手遵循 Sunnah，增加谦卑与专注。\n(Bukhari 735)",
+
+  "duaIstiftah": "在首次 Takbir 后念开场祷告，准备你的心专注站在安拉面前。\n(Muslim 399)",
+
+  "extraTasbeehRukuSujood": "在 rukū 与 sujūd 中多次念 tasbeeh，加深谦卑并增强你与安拉的联系。\n(Muslim 772)",
+
+  "duaBetweenTwoSujood": "在两次俯伏之间说“Rabbi ighfir li”，是寻求宽恕的真诚时刻。\n(Abu Dawud 850)",
+
+  "longerSujood": "延长俯伏使你最接近安拉，是进行 دعا 与反思的强大时刻。\n(Muslim 479)",
+
+  "seekingRefugeBeforeRecitation": "说“A‘udhu billahi min ash-shaytan ir-rajim”保护你的诵读与注意力不受干扰。\n(Abu Dawud 775)",
+
+  "sayingAmeen": "在 Al-Fatihah 后说“Ameen”，与天使一致，使祈祷被接受。\n(Bukhari 782; Muslim 410)",
+
+  "fullDhikrAfterRuku": "从 rukū 起身后完成全套赞颂，充满感恩与正确的纪念。\n(Muslim 477)",
+
+  "enterWithRightFoot": "以右脚进入清真寺，体现对圣地的尊重和 Sunnah。\n(Hakim 1/218)",
+
+  "duaEnteringMosque": "进入清真寺时念规定祷告，开启慈悲之门，准备心灵崇拜。\n(Muslim 713)",
+
+  "tahiyyatAlMasjid": "在清真寺就坐前祈祷两拜，尊崇安拉的居所，并带来即时回报。\n(Bukhari 444; Muslim 714)",
+
+  "walkingCalmlyToPrayer": "平静而庄重地走向祈祷，体现对崇拜的尊重，并增加回报。\n(Bukhari 908; Muslim 602)",
+
+  "usingSutrah": "祈祷时设立障碍（sutrah）保护你的专注，遵循先知 ﷺ 的做法。\n(Abu Dawud 689)",
+
+  "repeatingAfterMuadhin": "跟随宣礼者重复话语，将你与祈祷呼声连接，带来巨大回报。\n(Bukhari 611; Muslim 383)",
+
+  "sendingSalawatAfterAdhan": "在 Azan 后念祝福先知 ﷺ，提升你的地位，并在审判日接近他。\n(Muslim 384)",
+
+  "duaAfterAdhan": "Azan 后念规定祷告，使你的祈求得到接受。\n(Bukhari 614)",
+
+  "makingPersonalDuaAfterAdhan": "Azan 后是祈求被接受的特殊时间——用它向安拉请求你心所需。\n(Abu Dawud 524)",
+
+  "sayingBismillahGeneral": "在行动前说“Bismillah”，为其注入祝福，将日常任务变为崇拜行为。\n(Bukhari 5376)",
+
+  "salamUponEntering": "进入家中时致以 Salaam，传播和平，带来祝福，增进关系。\n(Tirmidhi 2698)",
+
+  "duaLeavingHome": "离家时念规定祷告，将信任交给安拉，并在旅途中获得保护。\n(Abu Dawud 5095; Tirmidhi 3426)",
+
+  "miswakWhenEnteringHome": "进入家中使用 Miswak，遵循 Sunnah 并保持清洁与清新。\n(Muslim 253)",
+
+  "wearingRightSideFirst": "穿衣从右侧开始，体现对 Sunnah 的热爱，即便是微小的动作。\n(Bukhari 168)",
+
+  "duaWhenWearingClothes": "穿新衣后念规定祷告，提醒所有供给来自安拉。\n(Abu Dawud 4020; Tirmidhi 1767)",
+
+  "removingLeftSideFirst": "脱衣从左侧开始，遵循先知 ﷺ 的平衡指导。\n(Abu Dawud 4141)",
+
+  "bismillahBeforeEating": "吃饭前说“Bismillah”，让食物得到祝福并保护其免受 Shaytan。\n(Bukhari 5376; Muslim 2022)",
+
+  "eatingWithRightHand": "用右手进食是伊斯兰礼仪，反映日常生活中的顺从。\n(Muslim 2020)",
+
+  "eatingWhatIsNear": "吃面前的食物，教导纪律、尊重和良好礼仪。\n(Bukhari 5376)",
+
+  "drinkingInThreeBreaths": "三口饮水更健康，并遵循先知 ﷺ 的 Sunnah。\n(Muslim 2028)",
+
+  "smiling": "真诚的微笑是一种慈善行为。它传播快乐，软化人心，并赢得安拉的回报。\n(Tirmidhi 1956)",
+
+  "givingSalam": "传播 Salaam 增加人与人之间的爱，是进入天堂的关键。\n(Muslim 54)",
+
+  "goodIntention": "行为以意图为准。只要真诚，即便普通行为也可成为崇拜。\n(Bukhari 1; Muslim 1907)",
+
+  "renewingIntention": "定期更新你的意图，让每日行为保持与安拉连接，并充满回报。\n(Bukhari 1; Muslim 1907)",
+
+  "turningHabitsIntoWorship": "通过真诚的意图，即便是吃饭、睡觉和工作也可成为崇拜。\n(Bukhari 1)",
+
+  "rememberingAllahConstantly": "让舌头常沾安拉的纪念，为心灵带来平和，为生活带来光明。\n(Tirmidhi 3375)",
+
+  "gratitude": "感恩安拉会增加祝福，并为心灵带来满足。\n(Bukhari 1130)",
+
+  "reflectionOnBlessings": "反思安拉的恩典，加深感恩并强化信仰。\n(Qur’an 14:7)",
+
+  "leavingSinsForQiyam": "戒除罪恶强化心灵，使夜间祈祷更容易。\n(Ibn Majah 4245)",
+
+  "fightingNafs": "为服从安拉而与自己的 nafs 作斗争，是最伟大的圣战之一。\n(Tirmidhi 1621)",
+
+  "avoidingInnovation": "坚持 Sunnah，避免创新，保持宗教的纯净。\n(Muslim 867)",
+
+  "tafakkurOnCreation": "反思天地的创造，强化信仰并敬畏安拉。\n(Qur’an 3:191)",
+
+  "monthlyQuranCompletion": "定期完成古兰经，保持心灵活力，与安拉的话语保持联系。\n(Abu Dawud 1394; Tirmidhi 2949)"
+
+}

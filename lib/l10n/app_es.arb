@@ -1,0 +1,336 @@
+{
+"@@locale": "es",
+"englishLang": "🇺🇸 Inglés",
+"persianLang": "🇦🇫 Persa",
+"pashtoLang": "🇦🇫 Pastún",
+"arabicLang": "🇸🇦 Árabe",
+"spanishLang": "🇪🇸 Español",
+"germanLang": "🇩🇪 Alemán",
+"russianLang": "🇷🇺 Ruso",
+"chineseLang": "🇨🇳 Chino",
+
+"selectLang": "Selecciona tu idioma",
+"next": "¡Siguiente!",
+"permissionAlertContent": "Para asegurarte de que tus recordatorios de la Sunnah lleguen exactamente a tiempo, permite 'Alarmas y Recordatorios' en la siguiente pantalla.",
+"enable": "¡ACTIVAR AHORA!",
+
+"howCanI": "Cualquier persona con una mente sana desea ser como él ﷺ después de leer sobre él.\nPero la pregunta es: ¿Cómo puedes ser como él?\n¡Nosotros te ayudaremos 😊!\n¡Sí! Te ayudaremos a tener un carácter como el suyo: respetado, amable, líder, disciplinado y, finalmente, ¡un verdadero SER HUMANO!",
+
+"didYouKnow": "¿Sabías que?",
+
+"expectations": "Lo único que debes hacer es explorar nuestra Biblioteca, elegir la Sunnah que te guste y te enviaremos notificaciones.\nTambién te recordaremos cosas que te ayudarán a desarrollar ese carácter brillante.\nPero... ¿estás listo para construir la mejor versión de ti mismo para esta vida y la otra?",
+
+"ready": "¡Estoy listo! 😮‍💨",
+
+"aboutMohammad": "¿Sabías que Muhammad ﷺ era conocido por un carácter tan hermoso que incluso sus enemigos confiaban en él? Siempre fue veraz, amable y profundamente compasivo.\nCuidaba de los pobres, perdonaba a quienes le hacían daño incluso cuando tenía el poder de castigarlos, y vivía con humildad a pesar de ser un gran LÍDER. Transformó la sociedad con justicia y misericordia, enseñando a las personas a ser honestas, pacientes y respetuosas. Ser como él no es algo PEQUEÑO.\nEs un logro en sí mismo, un camino que eleva tu carácter y tu valor cada día.",
+
+"selectLangContent": "¡Hola querido/a!\nLos idiomas y los nombres son los primeros vínculos entre tú y yo, así que primero selecciona el idioma con el que te sientas más cómodo y luego dime cómo quieres que te llame.",
+
+"enterName": "Introduce tu nombre........",
+"changeTheme": "Modo oscuro",
+"changeLang": "Cambiar idioma",
+"credits": "Créditos",
+
+"morningGreetings": "Buenos días",
+"eveningGreetings": "Buenas tardes",
+"mainGreeting": "Salam 'Alaikum",
+"mainSubTitle": "Siguiendo la Sunnah auténtica, camino al Paraíso",
+"noonGreeting": "Buen mediodía",
+"nightGreetings": "Buenas noches",
+"midNightGreetings": "Buena medianoche",
+
+"alertBoxTitle": "Guardado correctamente",
+"alertBoxContent": "Esta Sunnah ahora está disponible en la pestaña de seleccionados; puedes asignar un recordatorio allí.",
+"alertBoxActionGoToSelected": "Ir a seleccionados",
+"alertBoxActionDone": "Hecho",
+
+"savedReminderMessege": "¡Recordatorio activado!",
+"saveReminderButtonText": "Guardar y activar recordatorio",
+
+"deletingReminder": "Eliminando Sunnah",
+"deletingReminderSnackbar": "¡Eliminado con éxito!",
+"deletingReminderContent": "¿Deseas eliminar esta Sunnah de seleccionados? ¡Si la eliminas, ya no recibirás recordatorios!",
+"deletingReminderCancel": "Cancelar",
+"deletingReminderDelete": "¡Eliminar!",
+
+"navBarMain": "Inicio",
+"navBarLibrary": "Biblioteca",
+"navBarSelected": "Seleccionados",
+"navBarMore": "Más",
+
+"recommondedSunnahs": "Sunnahs recomendadas por ahora:",
+"morningZikr": "Adhkar de la mañana",
+"miswak": "Miswak",
+"ishraqPrayer": "Oración de Ishraq",
+"qailola": "Descanso del mediodía\n(Qailula)",
+"dhuhaPrayer": "Oración de Duha",
+"quran": "Leer el Corán",
+
+"eveningZikr": "Adhkar de la tarde",
+"surahMulk": "Surat Al-Mulk",
+"surahSajda": "Surat As-Sajda",
+"surahWaqiah": "Surat Al-Waqiah",
+  "azkarPageTitle": "Adhkar",
+  "complete": "¡Completado!",
+  "click": "¡Haz clic!",
+  "yasinDisc": "Leer esta sura, especialmente por la mañana, puede hacer que el día que comienza sea mucho mejor",
+  "istighfarDisc": "Allah ama el arrepentimiento, así que no te desanimes y haz todo lo posible por obtener el perdón",
+  "waqiahDisc": "Leer la sura Al-Waqiah por la noche ayuda a proteger de la pobreza y es también un recordatorio especial del Día del Juicio",
+  "surahMulkDisc": "Leer esta sura, especialmente sus primeros 30 versículos por la noche, puede interceder para obtener el perdón",
+  "qailolaDisc": "Es una siesta al mediodía que puede durar de 15 minutos a una hora, para recuperar energía durante el día o para el rezo nocturno",
+  "ishraqPrayerDiscreption": "La oración de Ishraq es un acto especial que se realiza después de la salida completa del sol y sirve como recordatorio de Allah",
+  "clearHistory": "Borrar el historial del rastreador",
+
+"beforeNightZikr": "Dhikr antes \n de dormir",
+"qyamUlLail": "Oraciones nocturnas\n(Qiyam al-Layl)",
+"surahYasin": "Surat Yasin",
+"astaghfar": "Istighfar",
+
+"selectedSunnahTitle": "Sunnahs seleccionadas",
+"nullScreenAlert": "Aún no hay Sunnahs seleccionadas.",
+"libraryAppBarTitle": "Biblioteca de Sunnahs",
+
+"morning": "Mañanas",
+"timeBased": "Basado en el tiempo",
+"worshipSunnahs": "Adoración",
+"socialSunnahs": "Social",
+"spritualSunnahs": "Carácter",
+
+"addBookmark": "Agregar a seleccionados",
+"libraryWipingFace": "Limpiarse el rostro",
+"libraryAlhamdulillahAfterWaking": "Alhamdulillah al despertar",
+"libraryUsingMiswak": "Usar miswak",
+"libraryCleaningNoseThreeTimes": "Limpiar la nariz 3 veces",
+"libraryWashingHandsBeforeWater": "Lavar las manos antes de introducirlas en el agua",
+
+"librarySunnahFajr": "Sunnah del Fajr",
+"librarySittingAfterFajrUntilSunrise": "Permanecer sentado después del Fajr hasta el amanecer",
+"libraryMorningAdhkar": "Adhkar de la mañana",
+"libraryDuhaPrayer": "Oración de Duha",
+
+"libraryRawatibPrayers": "Oraciones Rawatib (antes/después de las obligatorias)",
+"librarySunnahBeforeAsr": "Sunnah antes de ‘Asr",
+"librarySunnahBeforeMaghrib": "Sunnah antes de Maghrib",
+"librarySunnahBeforeIsha": "Sunnah antes de ‘Isha",
+
+"libraryEveningAdhkar": "Adhkar de la tarde",
+"librarySittingAfterMaghrib": "Permanecer sentado después de Maghrib",
+
+"libraryQiyamAlLayl": "Qiyam al-Layl",
+"libraryWitr": "Witr",
+"libraryNightDuas": "Duas nocturnas",
+"librarySleepingOnRightSide": "Dormir sobre el lado derecho",
+"libraryDuasBeforeSleep": "Duas antes de dormir",
+"librarySayingBismillahInWudu": "Decir Bismillah en el wudu",
+"libraryWashingLimbsThreeTimes": "Lavar las extremidades 3 veces",
+"libraryKhilalBetweenFingersToes": "Khilal (entre los dedos de manos y pies)",
+"libraryMiswakDuringWudu": "Miswak durante el wudu",
+"libraryTwoRakahAfterWudu": "Dos rak‘ah después del wudu",
+
+"libraryRaisingHands": "Levantar las manos",
+"libraryDuaAlIstiftah": "Du‘a al-Istiftah",
+"libraryExtraTasbeehInRukuSujood": "Tasbeeh adicional en ruku/sujood",
+"libraryDuaBetweenTwoSujood": "Du‘a entre los dos sujood",
+"libraryLongerSujood": "Sujood prolongado",
+
+"librarySeekingRefugeBeforeRecitation": "Buscar refugio antes de la recitación",
+"librarySayingAmeen": "Decir Amén",
+"libraryFullDhikrAfterRuku": "Dhikr completo después del ruku",
+
+"libraryEnterWithRightFoot": "Entrar con el pie derecho",
+"libraryDuaEnteringMosque": "Du‘a al entrar a la mezquita",
+"libraryTahiyyatAlMasjid": "Tahiyyat al-Masjid",
+"libraryWalkingCalmly": "Caminar con calma",
+"libraryUsingSutrah": "Usar sutrah",
+
+"libraryRepeatingAfterMuadhin": "Repetir después del mu’adhin",
+"librarySendingSalawat": "Enviar salawat",
+"libraryDuaAfterAdhan": "Du‘a después del adhan",
+"libraryMakingPersonalDua": "Hacer du‘a personal",
+"librarySayingBismillah": "Decir Bismillah",
+"librarySalamUponEntering": "Salam al entrar",
+"libraryDuaLeavingHome": "Du‘a al salir de casa",
+"libraryMiswakWhenEntering": "Miswak al entrar",
+"libraryWearingRightSideFirst": "Comenzar por el lado derecho al vestirse",
+"libraryDuaWhenWearingClothes": "Du‘a al ponerse la ropa",
+"libraryRemovingLeftSideFirst": "Comenzar por el lado izquierdo al quitarse la ropa",
+
+"libraryBismillahBeforeEating": "Bismillah antes de comer",
+"libraryEatingWithRightHand": "Comer con la mano derecha",
+"libraryEatingWhatIsNear": "Comer lo que está cerca",
+"libraryDrinkingInThreeBreaths": "Beber en tres sorbos",
+
+"librarySmiling": "Sonreír",
+"librarySalam": "Salam",
+"libraryGoodIntention": "Buena intención",
+"libraryRenewingIntentionInDailyActs": "Renovar la intención en los actos diarios",
+"libraryTurningHabitsIntoWorship": "Convertir los hábitos en adoración",
+"libraryRememberingAllahConstantly": "Recordar a Allah constantemente",
+"libraryGratitude": "Gratitud",
+"libraryReflectionOnBlessings": "Reflexión sobre las bendiciones",
+
+"libraryLeavingSinsToHelpQiyam": "Abandonar los pecados para facilitar el Qiyam",
+"libraryFightingNafs": "Luchar contra el nafs",
+"libraryAvoidingInnovation": "Evitar innovaciones",
+"libraryTafakkurOnCreation": "Reflexión sobre la creación",
+"libraryMonthlyQuranCompletion": "Completar el Corán mensualmente",
+
+"sayingBismillahGeneralTitle": "Decir Bismillah",
+"salamUponEnteringTitle": "Salam al entrar",
+"duaLeavingHomeTitle": "Du‘a al salir de casa",
+"miswakWhenEnteringHomeTitle": "Miswak al entrar en casa",
+"wearingRightSideFirstTitle": "Comenzar por el lado derecho al vestirse",
+"duaWhenWearingClothesTitle": "Du‘a al ponerse la ropa",
+"removingLeftSideFirstTitle": "Comenzar por el lado izquierdo al quitarse la ropa",
+
+"bismillahBeforeEatingTitle": "Bismillah antes de comer",
+"eatingWithRightHandTitle": "Comer con la mano derecha",
+"eatingWhatIsNearTitle": "Comer lo que está cerca",
+"drinkingInThreeBreathsTitle": "Beber en tres sorbos",
+
+"smilingTitle": "Sonreír",
+"givingSalamTitle": "Dar salam",
+"goodIntentionTitle": "Buena intención",
+"renewingIntentionTitle": "Renovar la intención",
+"turningHabitsIntoWorshipTitle": "Convertir los hábitos en adoración",
+"rememberingAllahConstantlyTitle": "Recordar a Allah constantemente",
+"gratitudeTitle": "Gratitud",
+"reflectionOnBlessingsTitle": "Reflexión sobre las bendiciones",
+
+"leavingSinsForQiyamTitle": "Abandonar los pecados para facilitar el Qiyam",
+"fightingNafsTitle": "Luchar contra el nafs",
+"avoidingInnovationTitle": "Evitar innovaciones",
+"tafakkurOnCreationTitle": "Reflexión sobre la creación",
+"monthlyQuranCompletionTitle": "Completar el Corán mensualmente",
+"wipingFaceAfterWaking": "Limpiarse suavemente el rostro al despertar es una de las Sunnahs sutiles y hermosas del Profeta ﷺ. Elimina los efectos del sueño y te ayuda a comenzar el día con conciencia y recuerdo de Allah.\n(Muslim 763)",
+
+"sayingAlhamdulillahAfterWaking": "Comienza tu día con gratitud diciendo: “Alhamdulillah alladhi ahyana ba‘da ma amatana…” — alabando a Allah, quien te devolvió la vida después del sueño. Este dhikr reconecta tu corazón con su propósito desde el primer momento.\n(Bujari 6312)",
+
+"usingMiswakAfterWaking": "Usar el miswak al despertar —especialmente por la noche— era algo amado por el Profeta ﷺ. Purifica la boca y te prepara para la oración y el recuerdo, combinando limpieza física con preparación espiritual.\n(Bujari 245, Muslim 255)",
+
+"cleaningNoseThreeTimes": "Limpiar la nariz tres veces al despertar es una Sunnah que promueve la limpieza y refresca el cuerpo. El Profeta ﷺ lo enseñó como parte de restaurar la pureza después del sueño.\n(Bujari 3295, Muslim 238)",
+
+"washingHandsBeforeWater": "Antes de introducir tus manos en el agua al despertar, lávalas tres veces. Esta Sunnah te protege de impurezas invisibles y fomenta la atención consciente en las acciones diarias.\n(Bujari 162, Muslim 278)",
+
+"sunnahOfFajr": "Las dos rak‘ah ligeras antes del Fajr son más valiosas que todo el mundo y lo que contiene. Protégelas, y conservarás uno de los mayores tesoros de tu día.\n(Muslim 725)",
+
+"sittingAfterFajr": "Permanecer sentado después del Fajr recordando a Allah hasta el amanecer trae tranquilidad, barakah y una gran recompensa. Establece un tono espiritual poderoso para todo tu día.\n(Muslim 670)",
+
+"morningAdhkar": "Quien mantiene los adhkar de la mañana se rodea de protección divina. Estos recuerdos fortalecen el corazón, traen paz y te protegen durante todo el día.\n(Muslim 2723)",
+
+"duhaPrayer": "Rezar Duha es como dar caridad por cada articulación de tu cuerpo. Es una hermosa expresión de gratitud por la salud, el movimiento y la vida misma.\n(Muslim 720)",
+
+"rawatibDaily": "Quien reza constantemente 12 rak‘ah de Sunnah al día tendrá una casa construida para él en el Paraíso. Estos pequeños actos diarios conllevan una enorme recompensa eterna.\n(Muslim 728)",
+
+"sunnahBeforeAsr": "El Profeta ﷺ pidió misericordia para quienes rezan cuatro rak‘ah antes del ‘Asr. Unos pocos momentos extra pueden ganarte la misericordia de Allah.\n(Abu Dawud 1271, Tirmidhi 430 – Hasan)",
+
+"sunnahBeforeMaghrib": "El Profeta ﷺ animó a rezar antes del Maghrib a quien lo desee. Es una oportunidad sencilla para obtener recompensa adicional antes de la oración obligatoria.\n(Bujari 1183)",
+
+"sunnahBeforeIsha": "Entre el adhan y el iqamah hay una oportunidad para rezar. Aprovecha estos momentos benditos para acercarte a Allah antes del ‘Isha.\n(Bujari 624, Muslim 838)",
+
+"eveningAdhkar": "Los adhkar de la tarde son un escudo para tu noche. Te protegen, tranquilizan tu corazón y te preparan para descansar bajo el cuidado de Allah.\n(Muslim 2723)",
+
+"sittingAfterMaghrib": "Permanecer en tu lugar después de la oración haciendo dhikr trae recompensa continua y fortalece tu conexión con Allah.\n(Muslim 670)",
+
+"qiyamAlLayl": "La mejor oración después de las obligatorias es la oración nocturna. En la tranquilidad de la noche, tu conexión con Allah se vuelve más profunda y sincera.\n(Muslim 1163)",
+
+"witrPrayer": "El Witr es una Sunnah altamente enfatizada. No la abandones, ya que completa tu noche y sella tu día con adoración y recuerdo.\n(Abu Dawud 1416, Tirmidhi 453)",
+
+"nightDuas": "Quien se despierta por la noche y recuerda a Allah con las súplicas prescritas tendrá sus دعا aceptadas. Estos momentos son oportunidades raras de cercanía.\n(Bujari 1154)",
+
+"sleepingRightSide": "Dormir sobre el lado derecho sigue la Sunnah del Profeta ﷺ y aporta tanto comodidad física como beneficio espiritual.\n(Bujari 6311, Muslim 2710)",
+
+"duasBeforeSleep": "Terminar tu día con súplicas deposita tu confianza en Allah. Tu alma descansa bajo Su protección, y despertar nuevamente es una misericordia Suya.\n(Bujari 6320, Muslim 2714)",
+
+"bismillahWudu": "Comienza tu ablución con 'Bismillah' para llenar tu acción de bendición e intención, convirtiendo un acto rutinario en adoración.\n(Abu Dawud 101; Tirmidhi 25)",
+
+"washingLimbsThreeTimes": "Lavar cada miembro hasta tres veces durante el wudu sigue la práctica completa del Profeta ﷺ y garantiza limpieza y recompensa.\n(Bujari 159; Muslim 226)",
+
+"khilalFingersToes": "Pasar agua entre los dedos de las manos y los pies perfecciona tu ablución y refleja atención al detalle en la adoración.\n(Abu Dawud 142; Tirmidhi 38)",
+
+"miswakDuringWudu": "Usar el miswak durante el wudu combina la purificación del cuerpo y la boca, preparándote completamente para la oración.\n(Ahmad 7406; Nasa’i 5)",
+
+"twoRakahAfterWudu": "Rezar dos rak‘ah después del wudu es un acto especial que trae una gran recompensa y abre las puertas del Paraíso.\n(Bujari 1149; Muslim 245)",
+
+"raisingHandsInPrayer": "Levantar las manos en momentos específicos de la oración sigue la Sunnah precisa y aumenta la humildad y la atención.\n(Bujari 735)",
+
+"duaIstiftah": "Recitar la súplica inicial después del primer takbir prepara tu corazón para estar ante Allah con concentración y sinceridad.\n(Muslim 399)",
+
+"extraTasbeehRukuSujood": "Repetir el tasbeeh varias veces en el ruku y sujood profundiza tu humildad y fortalece tu conexión con Allah.\n(Muslim 772)",
+
+"duaBetweenTwoSujood": "Decir 'Rabbi ighfir li' entre las dos postraciones es un momento para buscar el perdón con sinceridad y humildad.\n(Abu Dawud 850)",
+"longerSujood": "Alargar la postración te permite estar más cerca de Allah, convirtiéndola en un momento poderoso para el du‘a y la reflexión.\n(Muslim 479)",
+
+"seekingRefugeBeforeRecitation": "Decir 'A‘udhu billahi min ash-shaytan ir-rajim' protege tu recitación y tu concentración de las distracciones.\n(Abu Dawud 775)",
+
+"sayingAmeen": "Decir 'Amén' después de Al-Fatihah hace que tu súplica coincida con la de los ángeles y trae la aceptación de tu oración.\n(Bukhari 782; Muslim 410)",
+
+"fullDhikrAfterRuku": "Completar la alabanza después de levantarte del ruku llena tu oración de gratitud y recuerdo apropiado.\n(Muslim 477)",
+
+"enterWithRightFoot": "Entrar a la mezquita con el pie derecho refleja respeto y seguimiento de la Sunnah en los lugares sagrados.\n(Hakim 1/218)",
+
+"duaEnteringMosque": "Decir el du‘a prescrito al entrar a la mezquita abre las puertas de la misericordia y prepara tu corazón para la adoración.\n(Muslim 713)",
+
+"tahiyyatAlMasjid": "Rezar dos rak‘ah antes de sentarte en la mezquita honra la casa de Allah y trae recompensa inmediata.\n(Bukhari 444; Muslim 714)",
+
+"walkingCalmlyToPrayer": "Caminar hacia la oración con calma y dignidad refleja respeto por el acto de adoración y aumenta tu recompensa.\n(Bukhari 908; Muslim 602)",
+
+"usingSutrah": "Colocar una barrera (sutrah) al rezar protege tu concentración y sigue la práctica del Profeta ﷺ.\n(Abu Dawud 689)",
+
+"repeatingAfterMuadhin": "Repetir las palabras del adhan te conecta con el llamado a la oración y trae gran recompensa.\n(Bukhari 611; Muslim 383)",
+
+"sendingSalawatAfterAdhan": "Enviar bendiciones sobre el Profeta ﷺ después del adhan eleva tu rango y te acerca a él en el Día del Juicio.\n(Muslim 384)",
+
+"duaAfterAdhan": "Decir el du‘a prescrito después del adhan es un medio para que tu súplica sea aceptada.\n(Bukhari 614)",
+
+"makingPersonalDuaAfterAdhan": "Después del adhan hay un momento especial en el que las súplicas son aceptadas—úsalo para pedirle a Allah lo que tu corazón necesita.\n(Abu Dawud 524)",
+
+"sayingBismillahGeneral": "Decir 'Bismillah' antes de las acciones las llena de bendición y convierte las tareas cotidianas en actos de adoración.\n(Bukhari 5376)",
+
+"salamUponEntering": "Dar salam al entrar en un hogar difunde paz, trae bendiciones y fortalece las relaciones.\n(Tirmidhi 2698)",
+
+"duaLeavingHome": "Decir el du‘a prescrito al salir de casa pone tu confianza en Allah y trae protección durante todo tu camino.\n(Abu Dawud 5095; Tirmidhi 3426)",
+
+"miswakWhenEnteringHome": "Usar el miswak al entrar en casa sigue la Sunnah y mantiene la limpieza y frescura.\n(Muslim 253)",
+
+"wearingRightSideFirst": "Comenzar con el lado derecho al vestirse refleja amor por la Sunnah incluso en las acciones más pequeñas.\n(Bukhari 168)",
+
+"duaWhenWearingClothes": "Decir el du‘a prescrito al usar ropa nueva te recuerda que todas las provisiones provienen de Allah.\n(Abu Dawud 4020; Tirmidhi 1767)",
+
+"removingLeftSideFirst": "Quitar la ropa comenzando por el lado izquierdo sigue la guía equilibrada del Profeta ﷺ.\n(Abu Dawud 4141)",
+
+"bismillahBeforeEating": "Decir 'Bismillah' antes de comer invita la bendición a tu comida y la protege de Shaytan.\n(Bukhari 5376; Muslim 2022)",
+
+"eatingWithRightHand": "Comer con la mano derecha es parte de las buenas maneras en el Islam y refleja obediencia en la vida diaria.\n(Muslim 2020)",
+
+"eatingWhatIsNear": "Comer de lo que está frente a ti enseña disciplina, respeto y buenos modales.\n(Bukhari 5376)",
+
+"drinkingInThreeBreaths": "Beber en tres sorbos es más saludable y sigue la Sunnah del Profeta ﷺ.\n(Muslim 2028)",
+
+"smiling": "Una sonrisa sincera es caridad. Difunde felicidad, suaviza los corazones y trae recompensa de Allah.\n(Tirmidhi 1956)",
+
+"givingSalam": "Difundir el salam aumenta el amor entre las personas y es una llave para entrar al Paraíso.\n(Muslim 54)",
+
+"goodIntention": "Las acciones son juzgadas por las intenciones. Con sinceridad, incluso las acciones ordinarias se convierten en actos de adoración.\n(Bukhari 1; Muslim 1907)",
+
+"renewingIntention": "Renueva tu intención regularmente para que tus acciones diarias permanezcan conectadas con Allah y llenas de recompensa.\n(Bukhari 1; Muslim 1907)",
+
+"turningHabitsIntoWorship": "Con una intención sincera, incluso hábitos como comer, dormir y trabajar pueden convertirse en actos de adoración.\n(Bukhari 1)",
+
+"rememberingAllahConstantly": "Mantén tu lengua ocupada con el recuerdo de Allah, trayendo paz a tu corazón y luz a tu vida.\n(Tirmidhi 3375)",
+
+"gratitude": "Mostrar gratitud a Allah aumenta las bendiciones y trae satisfacción al corazón.\n(Bukhari 1130)",
+
+"reflectionOnBlessings": "Reflexionar sobre las bendiciones de Allah profundiza tu aprecio y fortalece tu fe.\n(Corán 14:7)",
+
+"leavingSinsForQiyam": "Evitar los pecados fortalece tu corazón y facilita levantarte para la oración nocturna.\n(Ibn Majah 4245)",
+
+"fightingNafs": "Esforzarte contra tu nafs en obediencia a Allah es una de las formas más grandes de yihad.\n(Tirmidhi 1621)",
+
+"avoidingInnovation": "Aferrarse firmemente a la Sunnah y evitar las innovaciones preserva la pureza de tu religión.\n(Muslim 867)",
+
+"tafakkurOnCreation": "Reflexionar sobre la creación de los cielos y la tierra fortalece la fe y despierta asombro por Allah.\n(Corán 3:191)",
+
+"monthlyQuranCompletion": "Completar el Corán regularmente mantiene tu corazón vivo y conectado con las palabras de Allah.\n(Abu Dawud 1394; Tirmidhi 2949)"
+
+}
